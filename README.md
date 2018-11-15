@@ -1,9 +1,14 @@
 # 2019-MIT-Computational-Law-Course
 
-* MIT Announcement Page: [law.MIT.edu/Learning](https://law.mit.edu/Learning)
+* MIT Announcement and Application Page: [law.MIT.edu/Learning](https://law.mit.edu/Learning)
 * MIT Media Lab Working Page for Course: [https://mitmedialab.github.io/2019-MIT-Computational-Law-Course](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course)
 * Computational Law Telegram Channel: [https://t.me/joinchat/HT4a1kl1cVs4kFeCrw4jJA](https://t.me/joinchat/HT4a1kl1cVs4kFeCrw4jJA)
 
+> Instructor: [Dazza Greenwood, Visiting Scientist at MIT Media Lab/law.MIT.edu](https://law.mit.edu/dazza) 
+> Co-Instructor: [George Howard, Berklee College of Music Professor/Lead Researcher, Open Music Initiative](https://www.berklee.edu/people/george-howard)
+> Co-Instructor: [Bryan Wilson, Legal Hackers](http://legalhackers.org)
+> Teacher Assistant (TA): [Camila Rioja Arantes](https://www.linkedin.com/in/camila-rioja-arantes-384b3970) / Head of Legal Tech @ Opice Blum, Bruno, Abrusio and Vaizof LLP / Admitted to practice law in Brazil.
+> Questions?  Ideas?  Join our Telegram Channel: [https://t.me/joinchat/HT4a1kl1cVs4kFeCrw4jJA](https://t.me/joinchat/HT4a1kl1cVs4kFeCrw4jJA)
 
 ----------
 
