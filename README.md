@@ -2,6 +2,8 @@
 
 * MIT Announcement Page: [law.MIT.edu/Learning](https://law.mit.edu/Learning)
 * MIT Media Lab Working Page for Course: [https://mitmedialab.github.io/2019-MIT-Computational-Law-Course](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course)
+* Computational Law Telegram Channel: [https://t.me/joinchat/HT4a1kl1cVs4kFeCrw4jJA](https://t.me/joinchat/HT4a1kl1cVs4kFeCrw4jJA)
+
 
 ----------
 
@@ -47,8 +49,6 @@ This course session reviews a conceptual overview and hands-on projects for unde
 
 
 # Introductory Material (2019)
-
-**Computational Law Telegram Channel:** https://t.me/joinchat/HT4a1kl1cVs4kFeCrw4jJA
 
 ## Topics
 * Introduction to Computational Law / Legal Hacking / Design Thinking
