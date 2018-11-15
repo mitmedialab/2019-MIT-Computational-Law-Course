@@ -88,6 +88,23 @@ This course session reviews a conceptual overview and hands-on projects for unde
             * [Modernizing Art with Blockchains](https://medium.com/@OpenLawOfficial/modernizing-art-with-blockchains-6cba4694833d)
     * Blockchain Governance
         * [Blockchain Governance 101](https://blog.goodaudience.com/blockchain-governance-101-eea5201d7992) by Vlad Zamfir
+        
+        
+## The DDEX Standard
+
+**Workshop course projects will include rapid prototyping of open source implementations of the DDEX standard.**
+
+> DDEX is a consortium of leading media companies, music licensing organisations, digital service providers and technical intermediaries, focused on the creation of digital supply chain standards.
+
+> To support the automated exchange of information along the digital supply chain, DDEX has standardised the format in which information is represented in XML messages and the method by which the messages are exchanged between business partners. These standards are developed and made available for industry-wide implementation.
+
+> DDEX standards help rightsholders, retailers and technical intermediaries to more effectively communicate information along the digital supply chain. This leads to efficient business transactions, reduced costs and increased revenues for all sectors involved.
+
+> Formed in 2006, DDEX initially focused on standardising message formats for the digital music supply chain but the foundation of the standards is sufficiently generic that they can easily be adapted to other digital media supply chains.
+
+* DDEX free implementation licence terms: [http://ddex.net/ddex-implementation-licence-terms](http://ddex.net/ddex-implementation-licence-terms)
+* DDEX Knowledge Base: [https://kb.ddex.net](https://kb.ddex.net)
+        
 
 ## Tools and Resources
 
