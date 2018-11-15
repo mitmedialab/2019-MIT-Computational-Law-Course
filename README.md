@@ -92,6 +92,8 @@ This course session reviews a conceptual overview and hands-on projects for unde
         
 ## The DDEX Standard
 
+<img width="1054" alt="screen shot 2018-11-15 at 2 37 53 pm" src="https://user-images.githubusercontent.com/2357755/48577032-165a3c00-e8e4-11e8-83d5-1fcb3100dd9f.png">
+
 **Workshop course projects will include rapid prototyping of open source implementations of the DDEX standard.**
 
 > DDEX is a consortium of leading media companies, music licensing organisations, digital service providers and technical intermediaries, focused on the creation of digital supply chain standards.
