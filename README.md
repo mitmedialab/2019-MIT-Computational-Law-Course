@@ -1,8 +1,50 @@
 # 2019-MIT-Computational-Law-Course
 
-## Announcement Page: law.MIT.edu/Learning
+* MIT Announcement Page: [law.MIT.edu/Learning](https://law.mit.edu/Learning)
+* MIT Media Lab Working Page for Course: [https://mitmedialab.github.io/2019-MIT-Computational-Law-Course](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course)
 
 ----------
+
+# Course Overview
+
+This course provides a conceptual overview and hands-on projects for understanding and solving legal use cases with data analytics, blockchain or other cryptosystems and a special module on rapid design solutions to key challenges for challenges posed by the Open Music Initiative. The course includes seminar-style lecture/discussion sessions and hands-on, experiential learning through team projects. The course covers:
+ 
+* Digital Assets, including 1) Ownership rights, valuation and provenance of digital property; and 2) Storage and exchange of digital property with electronic contracts, automated transactions and autonomous agents
+
+* Digital Identity, including 1) Technology and architecture for autonomy and control of self-sourced digital identity and personal data; and 2) Using individual identity for valid, verifiable login to apps or services and for providing a legal acknowledgment, assent or authorization.
+
+* Digital Contracts, including 1) Integrating ordinary digital contracts and blockchain "smart contracts" in automated transactions by individuals or businesses; and 2) Standard open-web stack design patterns for executing multiple digital signatures and electronic notarization on digital legal contracts.
+
+The course includes tutorials and tools for prototyping with blockchain based smart contracts and computational modeling.  The course also includes a special module on Open Music use cases and student projects.
+
+For more info, see: law.MIT.edu/learning
+
+## Jan 15: Introduction to Computational Law: 
+
+This course session provides an introduction to Computational Law and a conceptual framework for understanding and solving legal use cases with data analytics, transaction automation and blockchain smart contracts.  
+
+Instructors: [Dazza Greenwood, Visiting Scientist at MIT Media Lab/law.MIT.edu](https://law.mit.edu/dazza) and [Bryan Wilson, Legal Hackers](http://legalhackers.org)
+
+* This session will take place online.  Registered participants will receive connection information.
+
+## January 16: Computational Law and Open Music 
+
+This course session provides a conceptual overview and hands-on projects for understanding and solving legal use cases with data analytics, transaction automation and blockchain smart contracts. This session focuses on Open Music use cases and student projects.
+
+* Wiki Page for this Session: [https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Jan-16-Computational-Law-and-Open-Music](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Jan-16-Computational-Law-and-Open-Music)
+
+* This session will take place at MIT Media Lab room E15-359
+
+* Instructors: [Dazza Greenwood, Visiting Scientist at MIT Media Lab/law.MIT.edu](https://law.mit.edu/dazza) and [George Howard, Berklee College of Music Professor/Lead Researcher, Open Music Initiative](https://www.berklee.edu/people/george-howard).
+
+## January 17: Computational Law Scenarios and Use Cases
+
+This course session reviews a conceptual overview and hands-on projects for understanding and solving legal use cases with data analytics, transaction automation and blockchain smart contracts. This session focuses on key scenarios spotlighting integration of business models, legal fact patterns and technical use cases.
+
+* This session will take place online.  Registered participants will receive connection information. 
+
+* Instructors: [Dazza Greenwood, Visiting Scientist at MIT Media Lab/law.MIT.edu](https://law.mit.edu/dazza) and [Bryan Wilson, Legal Hackers](http://legalhackers.org)
+
 
 # Introductory Material (2019)
 
