@@ -67,6 +67,8 @@ This course session reviews a conceptual overview and hands-on projects for unde
     * [Hacking the Law](https://www.npr.org/programs/ted-radio-hour/656578702/hacking-the-law) - TED Radio Hour
     * [Computational Law: The Cop in the Backseat](https://law.stanford.edu/2016/01/13/michael-genesereths-computational-law-the-cop-in-the-backseat/) by Michael Genesereth
     * [What is Design Thinking](https://www.ideou.com/blogs/inspiration/what-is-design-thinking) by IDEO U
+    * [Legal Education in the Blockchain Revolution](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2939127) by Mark Fenwick, Wulf Kaal, and Erik PM Vermeulen
+    * [The MIT School of Law? A Perspective on Legal Education in the 21st Century](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2513397) by Dan Katz
 * Jurimetrics and quantitative analysis of the law
     * [Law as Computation in the Era of Artificial Legal Intelligence. Speaking Law to the Power of Statistics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2983045)
 * Logic and Rules-based AI / expert systems
