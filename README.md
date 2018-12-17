@@ -131,31 +131,31 @@ Download for iOS/Android at your friendly local app store.
 
 * Register using your mobile phone number (this is how you get your token)
 * In the settings, be sure to create an @user name and add a photo or other image so we can quickly spot you (or at least your avatar).
-* Join at https://t.me/joinchat/HT4a1kl1cVs4kFeCrw4jJA
+* Join at [https://t.me/joinchat/HT4a1kl1cVs4kFeCrw4jJA](https://t.me/joinchat/HT4a1kl1cVs4kFeCrw4jJA)
 * Turn off notifications 
 * Introduce yourself (name/affiliation, quick description of your background and interest, and, optionally, a use case/scenario you would like to discuss in class)
 
 ### Making Diagrams
 
-* General use case and other diagrams: https://www.draw.io
-* Google Docs Drawing Tools: https://support.google.com/docs/answer/179740?co=GENIE.Platform%3DDesktop&hl=en
-* Try it with Google Docs: https://docs.google.com/drawings/d/1umWoxzzVGhStpVv7f0v_e8QRgcxQ-bPrpGHyYn-Arq8/edit
+* General use case and other diagrams: [https://www.draw.io](https://www.draw.io)
+* Google Docs Drawing Tools: [https://support.google.com/docs/answer/179740?co=GENIE.Platform%3DDesktop&hl=en](https://support.google.com/docs/answer/179740?co=GENIE.Platform%3DDesktop&hl=en)
+* Try it with Google Docs: [https://docs.google.com/drawings/d/1umWoxzzVGhStpVv7f0v_e8QRgcxQ-bPrpGHyYn-Arq8/edit](https://docs.google.com/drawings/d/1umWoxzzVGhStpVv7f0v_e8QRgcxQ-bPrpGHyYn-Arq8/edit)
 
 **Swimlane Diagrams**
 
-* Simple data-driven swimlane diagrams: https://swimlanes.io 
-* More data-driven swimlane diagrams: https://www.websequencediagrams.com
-* For more context on the use of swim lane diagrams to describe legal use cases, see: https://github.com/mitmedialab/CoreID/tree/master/diagrams
+* Simple data-driven swimlane diagrams: [https://swimlanes.io](https://swimlanes.io)
+* More data-driven swimlane diagrams: [https://www.websequencediagrams.com](https://www.websequencediagrams.com)
+* For more context on the use of swim lane diagrams to describe legal use cases, see: [https://github.com/mitmedialab/CoreID/tree/master/diagrams](https://github.com/mitmedialab/CoreID/tree/master/diagrams)
 
 ### Using Markdown
 
-* https://github.github.com/gfm
-* https://guides.github.com/features/mastering-markdown
+* [https://github.github.com/gfm](https://github.github.com/gfm)
+* [https://guides.github.com/features/mastering-markdown](https://guides.github.com/features/mastering-markdown)
 
 **HTML to Markdown Converters**
 
-* https://domchristie.github.io/turndown
-* https://www.browserling.com/tools/html-to-markdown
+* [https://domchristie.github.io/turndown](https://domchristie.github.io/turndown)
+* [https://www.browserling.com/tools/html-to-markdown](https://www.browserling.com/tools/html-to-markdown)
 * Message thread with tools galore: https://talk.commonmark.org/t/is-a-reverse-conversion-html-to-markdown-possible/899/14
 
 ### GitHub Pages
