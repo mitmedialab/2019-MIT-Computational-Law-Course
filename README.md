@@ -160,7 +160,7 @@ Download for iOS/Android at your friendly local app store.
 
 ### GitHub Pages
 
-* https://pages.github.com/
+* [https://pages.github.com](https://pages.github.com)
 * Point your domain name entry at your registrar's settings site to the following "A Name" DNS addresses:
   - 192.30.252.153
   - 192.30.252.154
