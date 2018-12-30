@@ -64,11 +64,18 @@ This course session reviews a conceptual overview and hands-on projects for unde
 
 ## What is Computational Law
 
-Remarks of Dazza Greenwood to Tsinghua Computational Law Forum in Beijing on December 15, 2018.
+**Remarks of Dazza Greenwood to Tsinghua Computational Law Forum in Beijing on December 15, 2018.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AjXtIA4f9j4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Direct link to video: [https://youtu.be/AjXtIA4f9j4](https://youtu.be/AjXtIA4f9j4)
+
+
+**Featured open source smart/legal contrack tool: Accord Project Smart Legal Contract Template**
+
+Special overview and tutorial for MIT Computational Law Course students and invited Legal Hackers: https://youtu.be/gOF3pSZIiQ8
+
+
 
 ## Topics
 * Introduction to Computational Law / Legal Hacking / Design Thinking
