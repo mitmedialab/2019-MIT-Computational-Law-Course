@@ -3,7 +3,7 @@
 * MIT Announcement and Application Page: [law.MIT.edu/Learning](https://law.mit.edu/Learning)
 * MIT Media Lab Working Page for Course: [https://mitmedialab.github.io/2019-MIT-Computational-Law-Course](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course)
 * Course Wiki Site: [https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki)
-* 2019 Computational Law Telegram Channel: [https://t.me/joinchat/HT4a1kl1cVs4kFeCrw4jJA](https://t.me/joinchat/HT4a1kl1cVs4kFeCrw4jJA)
+* 2019 Computational Law Telegram Channel: [https://t.me/joinchat/HT4a1hFg6GWbPJqtnqWwZg)
 
 > Instructor: [Dazza Greenwood, Visiting Scientist at MIT Media Lab/law.MIT.edu](https://law.mit.edu/dazza) 
 
