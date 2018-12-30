@@ -73,8 +73,7 @@ This course session reviews a conceptual overview and hands-on projects for unde
 
 **Featured open source smart/legal contrack tool: Accord Project Smart Legal Contract Template**
 
-Special overview and tutorial for MIT Computational Law Course students and invited Legal Hackers: https://youtu.be/gOF3pSZIiQ8
-
+Special overview and tutorial for MIT Computational Law Course students and invited Legal Hackers: [https://youtu.be/gOF3pSZIiQ8](https://youtu.be/gOF3pSZIiQ8)
 
 
 ## Topics
