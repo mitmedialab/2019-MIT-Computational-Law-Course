@@ -62,6 +62,14 @@ This course session reviews a conceptual overview and hands-on projects for unde
 
 # Introductory Material (2019)
 
+## What is Computational Law
+
+Remarks of Dazza Greenwood to Tsinghua Computational Law Forum in Beijing on December 15, 2018.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AjXtIA4f9j4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* Direct link to video: [https://youtu.be/AjXtIA4f9j4](https://youtu.be/AjXtIA4f9j4)
+
 ## Topics
 * Introduction to Computational Law / Legal Hacking / Design Thinking
     * [The Market for "Lemons": Quality Uncertainty and the Market Mechanism](https://www.sas.upenn.edu/~hfang/teaching/socialinsurance/readings/fudan_hsbc/Akerlof70(2.1).pdf) by George Akerlof
