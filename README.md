@@ -15,6 +15,8 @@
 
 > Teacher Assistant (TA): [David Poppers](http://sanctioned.io) / Crypto Economy Superstar.
 
+> Team Mentor: [Tiemae Roquerre](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Profile:-Tiemae-Roquerre)
+
 > Questions?  Ideas?  Join our Telegram Channel: [https://t.me/joinchat/HT4a1kl1cVs4kFeCrw4jJA](https://t.me/joinchat/HT4a1kl1cVs4kFeCrw4jJA)
 
 ----------
