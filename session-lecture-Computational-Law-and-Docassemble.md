@@ -14,11 +14,12 @@ Special overview and tutorial for MIT Computational Law Course students and invi
 # Student Engagement:
   * Key prompts for the session (questions, activities, request for ideas/comments/etc)
   * Embed Pigeonhole social polling
+  * https://pigeonhole.at/54321
 
 
 ----
 
-Content to add:
+## Session Information
 
 Description: Overview of the components to Compute the Law, with an analysis of Docassemble as a use case.
 
