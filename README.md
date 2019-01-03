@@ -85,7 +85,7 @@ Special overview and tutorial for MIT Computational Law Course students and invi
 
 ## Topics
 * Introduction to Computational Law / Legal Hacking / Design Thinking
-    * [The Market for "Lemons": Quality Uncertainty and the Market Mechanism](https://www.sas.upenn.edu/~hfang/teaching/socialinsurance/readings/fudan_hsbc/Akerlof70(2.1).pdf) by George Akerlof
+    * [The Market for "Lemons": Quality Uncertainty and the Market Mechanism](http://mcadams.posc.mu.edu/econ/Akerlof,%2520Market%2520for%2520Lemons.pdf) by George Akerlof
     * [Is Computer Ethics Unique?](https://www.cs.unm.edu/~pgk/readings/unique-ethics2.pdf) by Walter Maner
     * [Code is Law](https://harvardmagazine.com/2000/01/code-is-law-html) by Larry Lessig
     * [Hacking the Law](https://www.npr.org/programs/ted-radio-hour/656578702/hacking-the-law) - TED Radio Hour
