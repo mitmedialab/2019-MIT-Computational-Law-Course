@@ -1,5 +1,7 @@
 # The Accord Project Smart/Legal Contract Templates
 
+> NOTE: If you are viewing this page in markdown format on GitHub try [THIS LINK](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-tool-accord-project.html) to see a full webpage
+
 Special overview and tutorial for MIT Computational Law Course students and invited Legal Hackers: [https://youtu.be/gOF3pSZIiQ8](https://youtu.be/gOF3pSZIiQ8)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gOF3pSZIiQ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
