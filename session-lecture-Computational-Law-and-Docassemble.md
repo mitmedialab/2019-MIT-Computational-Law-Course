@@ -56,7 +56,7 @@ See also [Identicons](http://identicon.net/), [Cryptokitties](https://www.crypto
             height: "568px",
             passcode: "6F7GKR",
             className: "pigeonhole-iframe",
-            sessionId: 0, // 0 here indicates that the widget will load the agenda.
+            sessionId: 0,
         });
     </script>
-<div class="pigeonhole-iframe"></div>
+ <div class="pigeonhole-iframe"></div>
