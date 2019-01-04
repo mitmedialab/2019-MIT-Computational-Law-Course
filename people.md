@@ -1,4 +1,4 @@
-#### |[Home](https://mitmedialab.github.io/2018-MIT-IAP-ComputationalLaw/)|
+#### |[Home](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course)|
 
 ## Students
 
