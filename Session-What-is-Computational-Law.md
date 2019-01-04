@@ -1,8 +1,6 @@
-# Session
+# Session: What is Computational Law?
 
 ---------
-
-<div class="pigeonhole-iframe"></div>
 
 <script type="text/javascript">
         (function(p,i,g,e,o,n,s){p[o]=p[o]||function(){(p[o].q=p[o].q||[]).push(arguments)},
@@ -12,15 +10,13 @@
         phl("create", {
             width: "320px",
             height: "568px",
-            passcode: "6F7GKR",
+            passcode: "LAWMIT",
             className: "pigeonhole-iframe",
-            sessionId: 0, // 0 here indicates that the widget will load the agenda.
+            sessionId: 188610, 
         });
     </script>
     
-    
 <div class="pigeonhole-iframe"></div>
-
 -------------
 
-Student Engagement 
+
