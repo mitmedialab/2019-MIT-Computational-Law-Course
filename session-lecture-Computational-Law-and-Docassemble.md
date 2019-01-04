@@ -46,3 +46,15 @@ Link to demo:
 Link to documentation: https://docassemble.org/docs.html
 
 See also [Identicons](http://identicon.net/), [Cryptokitties](https://www.cryptokitties.co/)
+
+
+------
+(window,document,'script','https://static.pigeonhole.at/widget/pigeon-widget.js','phl');
+        phl("create", {
+            width: "320px",
+            height: "568px",
+            passcode: "6F7GKR",
+            className: "pigeonhole-iframe",
+            sessionId: 0, // 0 here indicates that the widget will load the agenda.
+        });
+    </script>
