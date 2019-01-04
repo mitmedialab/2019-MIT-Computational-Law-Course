@@ -20,14 +20,13 @@ The links directly below provide interfaces to review lectures or tutorials and 
 
 ## Sessions 01A: What is Computational Law?
 
-* [https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-copyright.html](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-copyright.html)
+* [https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-what-is-computational-law.html](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-what-is-computational-law.html)
 
 -------------
 
 ## Session 02A: New Technologies for Copyright and Music Licensing
 
-* [https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-what-is-computational-law.html](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-what-is-computational-law.html)
-
+* [https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-copyright.html](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-copyright.html)
 ----------
 
 # Course Overview
