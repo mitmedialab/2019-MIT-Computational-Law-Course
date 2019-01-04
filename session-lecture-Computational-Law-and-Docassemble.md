@@ -29,6 +29,7 @@ Special overview and tutorial for MIT Computational Law Course students and invi
             sessionId: 0,
         });
     </script>
+<div class="pigeonhole-iframe"></div>
 -------
 
 ## Session Information
@@ -58,3 +59,4 @@ See also [Identicons](http://identicon.net/), [Cryptokitties](https://www.crypto
             sessionId: 0, // 0 here indicates that the widget will load the agenda.
         });
     </script>
+<div class="pigeonhole-iframe"></div>
