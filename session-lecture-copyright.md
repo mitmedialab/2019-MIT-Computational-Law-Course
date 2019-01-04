@@ -24,9 +24,11 @@ George Howard of Berklee College of Music and Open Music Initiative discussed co
 
 --------
         
-## Session Overview Description
+## Session Video - Full Screen
         
-George Howard of Berklee College of Music and Open Music Initiative discussed copyright and music licensing with Dazza Greenwood in the context of digital assets, automated licencing and blockchain. This video is intended as background and prep for Day 2 of the MIT Computational Law workshop course.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7AvDTX4IRfs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* Direct link to video: [https://youtu.be/7AvDTX4IRfs](https://youtu.be/7AvDTX4IRfs)
 
 ---------
 
