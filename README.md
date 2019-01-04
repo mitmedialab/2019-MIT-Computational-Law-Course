@@ -27,6 +27,7 @@ The links directly below provide interfaces to review lectures or tutorials and 
 ## Session 02A: New Technologies for Copyright and Music Licensing
 
 * [https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-copyright.html](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-copyright.html)
+
 ----------
 
 # Course Overview
