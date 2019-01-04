@@ -1,25 +1,32 @@
 # 2019-MIT-Computational-Law-Course
 
 * MIT Media Lab Working Page for Course: [https://mitmedialab.github.io/2019-MIT-Computational-Law-Course](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course)
-* Course Wiki Site: [https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki)
 * 2019 Computational Law Telegram Channel: [https://t.me/joinchat/HT4a1hFg6GWbPJqtnqWwZg](https://t.me/joinchat/HT4a1hFg6GWbPJqtnqWwZg)
+* **Team**
+   * Instructor: [Dazza Greenwood, Visiting Scientist at MIT Media Lab/law.MIT.edu](https://law.mit.edu/dazza) 
+   * Co-Instructor: [George Howard, Berklee College of Music Professor/Lead Researcher, Open Music Initiative](https://www.berklee.edu/people/george-howard)
+   * Co-Instructor: [Bryan Wilson, Legal Hackers](http://legalhackers.org)
+   * Teacher Assistant (TA): [Camila Rioja Arantes](https://www.linkedin.com/in/camila-rioja-arantes-384b3970) / Head of Legal Tech @ Opice Blum, Bruno, Abrusio and Vaizof LLP / Admitted to practice law in Brazil
+   * Team Mentor & Advocate (TMA): [Tiemae Roquerre](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Profile:-Tiemae-Roquerre) / Entreprenureal Innovation Superstar
+* Course Wiki Site: [https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki)
 * MIT Announcement and Wait List Application Page: [law.MIT.edu/Learning](https://law.mit.edu/Learning)
+* **Questions?  Ideas?  Join our Telegram Channel:** [https://t.me/joinchat/HT4a1hFg6GWbPJqtnqWwZg](https://t.me/joinchat/HT4a1hFg6GWbPJqtnqWwZg)
 
-----------
+---------
 
-> Instructor: [Dazza Greenwood, Visiting Scientist at MIT Media Lab/law.MIT.edu](https://law.mit.edu/dazza) 
+# Online Participatory Engagement for Registered Students
 
-> Co-Instructor: [George Howard, Berklee College of Music Professor/Lead Researcher, Open Music Initiative](https://www.berklee.edu/people/george-howard)
+The links directly below provide interfaces to review lectures or tutorials and for registered students and invited auditors of this workshop course to pose questions, ideas or other comments on the materials.  Your feedback will form the starting point for live discussions on January 15, 16 and 17th.  
 
-> Co-Instructor: [Bryan Wilson, Legal Hackers](http://legalhackers.org)
+## Sessions 01A: What is Computational Law?
 
-> Teacher Assistant (TA): [Camila Rioja Arantes](https://www.linkedin.com/in/camila-rioja-arantes-384b3970) / Head of Legal Tech @ Opice Blum, Bruno, Abrusio and Vaizof LLP / Admitted to practice law in Brazil
+* [https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-copyright.html](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-copyright.html)
 
-> Teacher Assistant (TA): [David Poppers](http://sanctioned.io) / Crypto Economy Superstar
+-------------
 
-> Team Mentor & Advocate (TMA): [Tiemae Roquerre](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Profile:-Tiemae-Roquerre) / Entreprenureal Innovation Superstar
+## Session 02A: New Technologies for Copyright and Music Licensing
 
-> Questions?  Ideas?  Join our Telegram Channel: [https://t.me/joinchat/HT4a1hFg6GWbPJqtnqWwZg](https://t.me/joinchat/HT4a1hFg6GWbPJqtnqWwZg)
+* [https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-what-is-computational-law.html](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-what-is-computational-law.html)
 
 ----------
 
@@ -62,7 +69,6 @@ This course session reviews a conceptual overview and hands-on projects for unde
 * This session will take place online.  Registered participants will receive connection information. 
 
 * Instructors: [Dazza Greenwood, Visiting Scientist at MIT Media Lab/law.MIT.edu](https://law.mit.edu/dazza) and [Bryan Wilson, Legal Hackers](http://legalhackers.org)
-
 
 # Introductory Material (2019)
 
