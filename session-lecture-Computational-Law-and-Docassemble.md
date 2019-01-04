@@ -1,5 +1,11 @@
 # Computational Law and DocAssemble
 
+-------
+
+> NOTE: This page is a work in progress
+
+------
+
 > NOTE: If you are viewing this page in markdown format on GitHub try [THIS LINK](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-Computational-Law-and-Docassemble.html) to see a full webpage
 
 Special overview and tutorial for MIT Computational Law Course students and invited Legal Hackers: [Youtube](www.youtube.com)
