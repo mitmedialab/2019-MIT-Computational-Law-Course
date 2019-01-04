@@ -1,8 +1,10 @@
-# Session: What is Computational Law?
+# Participatory Engagement 
 
+## Lecture Session: What is Computational Law?
+        
+Remarks of Dazza Greenwood to Tsinghua Computational Law Forum in Beijing on December 15, 2018.
 
-
----------
+----------
 
 <script type="text/javascript">
         (function(p,i,g,e,o,n,s){p[o]=p[o]||function(){(p[o].q=p[o].q||[]).push(arguments)},
@@ -17,14 +19,19 @@
             sessionId: 188610, 
         });
     </script>
-    
 <div class="pigeonhole-iframe"></div>
 
--------------
-
-## Video: Remarks of Dazza Greenwood to Tsinghua Computational Law Forum in Beijing on December 15, 2018.
-
-
+--------
+        
+## Session Video - Full Screen
+        
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AjXtIA4f9j4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* Direct link to video: [https://youtu.be/AjXtIA4f9j4](https://youtu.be/AjXtIA4f9j4)
+* Direct link to video: [https://youtu.be/AjXtIA4f9j4](https://youtu.be/AjXtIA4f9j4) 
+
+---------
+
+
+
+
+
