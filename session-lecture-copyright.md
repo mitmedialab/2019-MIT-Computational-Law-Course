@@ -1,6 +1,6 @@
-# Copyright and Music Licensing
+# Participatory Engagement 
 
-## Session Overview Description
+## Lecture Session: Copyright and Music Licensing 
         
 George Howard of Berklee College of Music and Open Music Initiative discussed copyright and music licensing with Dazza Greenwood in the context of digital assets, automated licencing and blockchain. This video is intended as background and prep for Day 2 of the MIT Computational Law workshop course.
 
