@@ -137,7 +137,8 @@ Special overview and tutorial for MIT Computational Law Course students and invi
         * [A General Approach for Predicting the Behavior of the Supreme Court of the United States](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2463244) by Dan Katz, Michael Bommarito, and Josh Blackman
 * Blockchain
     * [Decentralized Blockchain Technology and the Rise of Lex Cryptographia] by Aaron Wright and Primavera de Filipi(https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2580664)
-    * What is blockchain?  (TBA)
+    * What is blockchain?
+        *Basics through Cryptozombie Game (https://delegatecall.com/what-is-blockchain/#/splashcreen) from the loom Network
     * Cryptocurrency
         * Securities Regulation
     * Smart Contracts
