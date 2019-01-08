@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  docassemble:
+    image: jhpyle/docassemble
+    ports:
+      - "80:80"
+    volumes:
+      - "./test2.yml:/usr/share/docassemble/files/playground/1/test2.yml"
