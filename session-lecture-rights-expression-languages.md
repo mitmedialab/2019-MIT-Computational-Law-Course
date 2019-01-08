@@ -3,6 +3,7 @@
 ## Lecture Session: Rights Expression Languages, or Copyright Law Rumbles with Technology in a Dark Alley
         
 Bill Rosenblatt of GiantSteps explains rights expression languages in the context of computational licenses for IP.
+
 ----------
 
 <script type="text/javascript">
@@ -32,3 +33,10 @@ Bill Rosenblatt of GiantSteps explains rights expression languages in the contex
 ---------
 
 
+## Relevant links:
+
+* [http://dev.iptc.org/RightsML-Simple-Example-Geographic](http://dev.iptc.org/RightsML-Simple-Example-Geographic)
+* [https://www.w3.org/community/odrl/implementations/](https://www.w3.org/community/odrl/implementations)
+* [https://www.w3.org/TR/2018/REC-odrl-vocab-20180215/](https://www.w3.org/TR/2018/REC-odrl-vocab-20180215/)
+* [https://www.w3.org/TR/2018/REC-odrl-model-20180215/](https://www.w3.org/TR/2018/REC-odrl-model-20180215)
+* [https://github.com/nitmws/odrl-wprofile-evaltest1/blob/master/evaluator/evaluator.js](https://github.com/nitmws/odrl-wprofile-evaltest1/blob/master/evaluator/evaluator.js)
