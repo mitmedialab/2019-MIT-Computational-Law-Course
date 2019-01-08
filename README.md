@@ -136,9 +136,9 @@ Special overview and tutorial for MIT Computational Law Course students and invi
         * [Using Machine Learning to Predict Success or Failure in Chapter 13 Bankruptcy Cases](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3183484) by Warren E. Agin
         * [A General Approach for Predicting the Behavior of the Supreme Court of the United States](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2463244) by Dan Katz, Michael Bommarito, and Josh Blackman
 * Blockchain
-    * [Decentralized Blockchain Technology and the Rise of Lex Cryptographia] by Aaron Wright and Primavera de Filipi(https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2580664)
+    * [Decentralized Blockchain Technology and the Rise of Lex Cryptographia](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2580664) by Aaron Wright and Primavera de Filipi
     * What is blockchain?
-        *Basics through Cryptozombie Game (https://delegatecall.com/what-is-blockchain/#/splashcreen) from the loom Network
+        * [Basics through Cryptozombie Game](https://delegatecall.com/what-is-blockchain/#/splashcreen) from the loom Network
     * Cryptocurrency
         * Securities Regulation
     * Smart Contracts
