@@ -40,3 +40,5 @@ Bill Rosenblatt of GiantSteps explains rights expression languages in the contex
 * [https://www.w3.org/TR/2018/REC-odrl-vocab-20180215/](https://www.w3.org/TR/2018/REC-odrl-vocab-20180215/)
 * [https://www.w3.org/TR/2018/REC-odrl-model-20180215/](https://www.w3.org/TR/2018/REC-odrl-model-20180215)
 * [https://github.com/nitmws/odrl-wprofile-evaltest1/blob/master/evaluator/evaluator.js](https://github.com/nitmws/odrl-wprofile-evaltest1/blob/master/evaluator/evaluator.js)
+* [https://iptc.org/standards/rightsml](https://iptc.org/standards/rightsml)
+* [https://www.slideshare.net/smyles/rights-for-photo-and-video-archives-at-the-associated-press](https://www.slideshare.net/smyles/rights-for-photo-and-video-archives-at-the-associated-press)
