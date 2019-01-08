@@ -28,10 +28,15 @@ The links directly below provide interfaces to review lectures or tutorials and 
 
 * [https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-computational-law-and-docassemble.html](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-computational-law-and-docassemble.html)
 
+-------------
+
+## Session 01C: Computational Contracts
+
+* [https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-computational-contracts.html](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-computational-contracts.html)
 
 -------------
 
-## Session 01C: Rights Expression Languages
+## Session 01D: Rights Expression Languages
 
 * [https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-rights-expression-languages.html](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-rights-expression-languages.html)
 
