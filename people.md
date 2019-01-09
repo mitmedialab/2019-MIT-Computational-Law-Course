@@ -78,3 +78,6 @@
 -----------------
 
 -----------------
+
+#### |[Home](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course)|
+
