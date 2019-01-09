@@ -40,7 +40,7 @@
 ----------------
 #### Rieke Smakman 
 
-![0](https://user-images.githubusercontent.com/2357755/50868133-22aac480-137c-11e9-9ddd-266af956e957.jpeg)
+<img width="260" alt="screen shot 2019-01-08 at 7 33 17 pm" src="https://user-images.githubusercontent.com/2357755/50868165-4706a100-137c-11e9-8fe3-b21e94d6aa48.png">
 
 [https://www.linkedin.com/in/riekesmakman/](https://www.linkedin.com/in/riekesmakman/)
 
