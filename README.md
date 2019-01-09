@@ -7,7 +7,7 @@
    * Co-Instructor: [George Howard, Berklee College of Music Professor/Lead Researcher, Open Music Initiative](https://www.berklee.edu/people/george-howard)
    * Co-Instructor: [Bryan Wilson, Legal Hackers](http://legalhackers.org)
    * Teacher Assistant (TA): [Camila Rioja Arantes](https://www.linkedin.com/in/camila-rioja-arantes-384b3970) / Head of Legal Tech @ Opice Blum, Bruno, Abrusio and Vaizof LLP / Admitted to practice law in Brazil
-   * Team Mentor & Advocate (TMA): [Tiemae Roquerre](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Profile:-Tiemae-Roquerre) / Entreprenureal Innovation Superstar
+   * Team Mentor & Advocate (TMA): [Tiemae Roquerre](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Profile:-Tiemae-Roquerre) / Entrepreneurial Innovation Superstar
 * Course Wiki Site: [https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki)
 * MIT Announcement and Wait List Application Page: [law.MIT.edu/Learning](https://law.mit.edu/Learning)
 * **Questions?  Ideas?  Join our Telegram Channel:** [https://t.me/joinchat/HT4a1hFg6GWbPJqtnqWwZg](https://t.me/joinchat/HT4a1hFg6GWbPJqtnqWwZg)
