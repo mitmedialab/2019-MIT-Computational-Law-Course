@@ -48,6 +48,20 @@ The links directly below provide interfaces to review lectures or tutorials and 
 
 ----------
 
+## Breakout Session 03A: Design Challenge: How Might a Computational Jurisdiction be Designed, Built and Tested?
+
+* [https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-challenge-computational-jurisdiction.html](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-challenge-computational-jurisdiction.html)
+
+## Breakout Session 03B: Design Challenge: How Might the Bankruptcy Court Treat Blockchain Token Holders in a Bankruptcy Case?
+
+* Coming Soon
+
+## Breakout Session 03C: Learning/Tutorial: Integrating Interoperable Apps and Services with Legal Platforms
+
+* Coming Soon
+
+----------
+
 # Course Overview
 
 This course provides a conceptual overview and hands-on projects for understanding and solving legal use cases with data analytics, blockchain or other cryptosystems and a special module on rapid design solutions to key challenges for challenges posed by the Open Music Initiative. The course includes seminar-style lecture/discussion sessions and hands-on, experiential learning through team projects. The course covers:
