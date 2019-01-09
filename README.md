@@ -48,17 +48,21 @@ The links directly below provide interfaces to review lectures or tutorials and 
 
 ----------
 
-## Breakout Session 03A: How Might a Computational Jurisdiction be Designed, Built and Tested?
+## Session 03A: Small Working Group on "How Might a Computational Jurisdiction be Designed, Built and Tested?"
 
 * [https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-challenge-computational-jurisdiction.html](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-challenge-computational-jurisdiction.html)
 
-## Breakout Session 03B: How Might the Bankruptcy Court Treat Blockchain Token Holders in a Bankruptcy Case?
+## Session 03B: Small Working Group on Discussion on "How Might the Bankruptcy Court Treat Blockchain Token Holders in a Bankruptcy Case?"
 
-* Coming Soon
+* Session Page Coming Soon.  [Working Notes](https://www.are.na/beth-mccarthy/business-legal-tech-dynamics)
 
-## Breakout Session 03C: Integrating Interoperable Apps and Services with Legal Platforms
+## Session 03C: Small Working Group on "Integrating Interoperable Apps and Services with Legal Platforms"
 
-* Coming Soon
+* Session Page Coming Soon
+
+## Session 03D: Small Working Group on "Competing Legal Frameworks for Humanity in the Data Driven Age"
+
+* Session Page Coming Soon.  [Working notes](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Session:-Competing-Legal-Frameworks-for-Humanity-in-the-Data-Driven-Age).
 
 ----------
 
