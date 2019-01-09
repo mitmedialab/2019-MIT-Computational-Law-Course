@@ -32,9 +32,9 @@ Bill Rosenblatt of GiantSteps explains rights expression languages in the contex
         
 ## Session Video - Full Screen
         
-<iframe width="560" height="315" src="https://www.youtube.com/embed/u_U0yo3VcxA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j-eLKcoj0R8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* Direct link to video: [https://youtu.be/u_U0yo3VcxA](https://youtu.be/u_U0yo3VcxA)
+* Direct link to video: [https://youtu.be/j-eLKcoj0R8](https://youtu.be/j-eLKcoj0R8)
 
 ---------
 
