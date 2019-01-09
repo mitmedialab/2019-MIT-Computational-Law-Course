@@ -1,3 +1,5 @@
+#### |[Home](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course)|
+
 # Participatory Engagement 
 
 ## Lecture Session: Copyright and Music Licensing 
