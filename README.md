@@ -64,6 +64,10 @@ The links directly below provide interfaces to review lectures or tutorials and 
 
 * Session Page Coming Soon.  [Working notes](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Session:-Competing-Legal-Frameworks-for-Humanity-in-the-Data-Driven-Age).
 
+## Session 03E: Small Working Group on "Smart Contracts for Music Licensing"
+
+* This session may be offered, pending level of student interest. 
+
 ----------
 
 # Course Overview
