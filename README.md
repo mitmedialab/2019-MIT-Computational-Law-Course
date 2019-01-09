@@ -48,15 +48,15 @@ The links directly below provide interfaces to review lectures or tutorials and 
 
 ----------
 
-## Breakout Session 03A: Design Challenge: How Might a Computational Jurisdiction be Designed, Built and Tested?
+## Breakout Session 03A: How Might a Computational Jurisdiction be Designed, Built and Tested?
 
 * [https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-challenge-computational-jurisdiction.html](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-challenge-computational-jurisdiction.html)
 
-## Breakout Session 03B: Design Challenge: How Might the Bankruptcy Court Treat Blockchain Token Holders in a Bankruptcy Case?
+## Breakout Session 03B: How Might the Bankruptcy Court Treat Blockchain Token Holders in a Bankruptcy Case?
 
 * Coming Soon
 
-## Breakout Session 03C: Learning/Tutorial: Integrating Interoperable Apps and Services with Legal Platforms
+## Breakout Session 03C: Integrating Interoperable Apps and Services with Legal Platforms
 
 * Coming Soon
 
