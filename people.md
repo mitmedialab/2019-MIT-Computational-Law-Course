@@ -60,7 +60,19 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gqgcAxBQ-QQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 -----------------
-#### 
+#### Layla Zhang
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FzpdgbBAr9I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+-----------------
+#### Mark Shornick
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zI8NCgkFzW0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+-----------------
+#### Jose Correa 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_my9YAj-AA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+-----------------
