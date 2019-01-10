@@ -44,3 +44,21 @@ Bill Rosenblatt of GiantSteps explains rights expression languages in the contex
 * [https://github.com/nitmws/odrl-wprofile-evaltest1/blob/master/evaluator/evaluator.js](https://github.com/nitmws/odrl-wprofile-evaltest1/blob/master/evaluator/evaluator.js)
 * [https://iptc.org/standards/rightsml](https://iptc.org/standards/rightsml)
 * [https://www.slideshare.net/smyles/rights-for-photo-and-video-archives-at-the-associated-press](https://www.slideshare.net/smyles/rights-for-photo-and-video-archives-at-the-associated-press)
+
+
+## The DDEX Standard
+
+<img width="1054" alt="screen shot 2018-11-15 at 2 37 53 pm" src="https://user-images.githubusercontent.com/2357755/48577032-165a3c00-e8e4-11e8-83d5-1fcb3100dd9f.png">
+
+**Workshop course projects will include rapid prototyping of open source implementations of the DDEX standard.**
+
+> DDEX is a consortium of leading media companies, music licensing organisations, digital service providers and technical intermediaries, focused on the creation of digital supply chain standards.
+
+> To support the automated exchange of information along the digital supply chain, DDEX has standardised the format in which information is represented in XML messages and the method by which the messages are exchanged between business partners. These standards are developed and made available for industry-wide implementation.
+
+> DDEX standards help rightsholders, retailers and technical intermediaries to more effectively communicate information along the digital supply chain. This leads to efficient business transactions, reduced costs and increased revenues for all sectors involved.
+
+> Formed in 2006, DDEX initially focused on standardising message formats for the digital music supply chain but the foundation of the standards is sufficiently generic that they can easily be adapted to other digital media supply chains.
+
+* DDEX free implementation licence terms: [http://ddex.net/ddex-implementation-licence-terms](http://ddex.net/ddex-implementation-licence-terms)
+* DDEX Knowledge Base: [https://kb.ddex.net](https://kb.ddex.net)
