@@ -1,5 +1,6 @@
 # Computational Law Workshop Course
 
+* * 2019 Working Syllabus: [https://mitmedialab.github.io/2019-MIT-Computational-Law-Course](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course)
 * **2019 Course Students**: [https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/people.html](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/people.html)
 * **2019 Course Team**
 * Course Instructor: [Dazza Greenwood, Visiting Scientist at MIT Media Lab/law.MIT.edu](https://law.mit.edu/dazza) 
@@ -9,7 +10,6 @@
    * Team Mentor & Advocate (TMA): [Tiemae Roquerre](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Profile:-Tiemae-Roquerre) / Entrepreneurial Innovation Superstar
 * Course Wiki Site: [https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki)
 * 2019 Course Announcement and Wait List Application Page: [law.MIT.edu/Learning](https://law.mit.edu/Learning)
-* 2019 Working Syllabus: [https://mitmedialab.github.io/2019-MIT-Computational-Law-Course](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course)
 * 2019 Course overview: [https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/course-overview.html](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/course-overview.html)
 * 2019 Course Telegram Channel: [https://t.me/joinchat/HT4a1hFg6GWbPJqtnqWwZg](https://t.me/joinchat/HT4a1hFg6GWbPJqtnqWwZg)
 
