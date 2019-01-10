@@ -195,7 +195,7 @@ Download for iOS/Android at your friendly local app store.
 
 * Register using your mobile phone number (this is how you get your token)
 * In the settings, be sure to create an @user name and add a photo or other image so we can quickly spot you (or at least your avatar).
-* Join at [https://t.me/joinchat/HT4a1kl1cVs4kFeCrw4jJA](https://t.me/joinchat/HT4a1kl1cVs4kFeCrw4jJA)
+* Join at [https://t.me/joinchat/HT4a1hFg6GWbPJqtnqWwZg](https://t.me/joinchat/HT4a1hFg6GWbPJqtnqWwZg)
 * Turn off notifications 
 * Introduce yourself (name/affiliation, quick description of your background and interest, and, optionally, a use case/scenario you would like to discuss in class)
 
