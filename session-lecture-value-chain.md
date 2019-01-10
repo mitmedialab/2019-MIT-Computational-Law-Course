@@ -31,3 +31,9 @@ Vickie Nauman, Founder CrossBorderWorks and Strategic Advisor to Open Music Init
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ETrvfenyv5g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Direct link to video: [https://youtu.be/ETrvfenyv5g](https://youtu.be/ETrvfenyv5g)
+
+-----------------
+
+## Materials
+
+* Link to PDF of presentation slides: [https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/blob/master/Presentations/MIT-Nauman-to-share.pdf](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/blob/master/Presentations/MIT-Nauman-to-share.pdf)
