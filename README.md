@@ -1,6 +1,6 @@
 # Computational Law Workshop Course
 
-* * 2019 Working Syllabus: [https://mitmedialab.github.io/2019-MIT-Computational-Law-Course](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course)
+* 2019 Working Syllabus: [https://mitmedialab.github.io/2019-MIT-Computational-Law-Course](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course)
 * **2019 Course Students**: [https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/people.html](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/people.html)
 * **2019 Course Team**
 * Course Instructor: [Dazza Greenwood, Visiting Scientist at MIT Media Lab/law.MIT.edu](https://law.mit.edu/dazza) 
