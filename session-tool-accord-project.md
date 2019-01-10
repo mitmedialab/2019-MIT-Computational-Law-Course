@@ -2,7 +2,7 @@
 
 # The Accord Project Smart/Legal Contracts
 
-Special overview and tutorial for MIT Computational Law Course students and invited Legal Hackers: [https://youtu.be/gOF3pSZIiQ8](https://youtu.be/gOF3pSZIiQ8)
+Special overview and tutorial for MIT Computational Law Course students and participants: [https://youtu.be/gOF3pSZIiQ8](https://youtu.be/gOF3pSZIiQ8)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gOF3pSZIiQ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
