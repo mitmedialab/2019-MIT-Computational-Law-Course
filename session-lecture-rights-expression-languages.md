@@ -34,6 +34,12 @@ Bill Rosenblatt of GiantSteps explains rights expression languages in the contex
 
 ---------
 
+# Materials
+
+## Presentations
+
+* Link to PDF of presentation: [https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/blob/master/Presentations/Rights%20Expression%20Languages.pdf](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/blob/master/Presentations/Rights%20Expression%20Languages.pdf)
+
 
 ## Relevant links:
 
