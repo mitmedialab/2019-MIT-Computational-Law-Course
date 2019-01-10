@@ -82,12 +82,12 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iMXgBanN7PU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 -----------------
-## Rieke Smakman
+#### Rieke Smakman
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jil6vtlNdrI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 -----------------
-## Brenden Maher
+#### Brenden Maher
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xHVXh6TtlgI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
