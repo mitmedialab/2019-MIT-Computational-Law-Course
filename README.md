@@ -59,6 +59,10 @@ This course day provides an introduction to Computational Law and a conceptual f
 
 * [https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-value-chain.html](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-value-chain.html)
 
+### Session 01F: Security, Cryptography and Protocols
+
+* [https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-security-and-cryptography.html](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-security-and-cryptography.html)
+
 -------------
 
 # Day 2: January 16th, 2019 11AM - 4PM Eastern Time
@@ -116,7 +120,7 @@ This course day provides an introduction to Computational Law and a conceptual f
 
 ## Session 03D: Small Working Group on "Competing Legal Frameworks for Humanity in the Data Driven Age"
 
-* Session Page Coming Soon.  [Working notes](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Session:-Competing-Legal-Frameworks-for-Humanity-in-the-Data-Driven-Age).
+* [https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-breakout-legal-frameworks-for-identity.html](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-breakout-legal-frameworks-for-identity.html)
 
 ----------
 
