@@ -59,6 +59,12 @@ This course day provides an introduction to Computational Law and a conceptual f
 
 * [https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-value-chain.html](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-value-chain.html)
 
+----------
+
+## Information Security
+
+----------
+
 ### Session 01F: Security, Cryptography and Protocols
 
 * [https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-security-and-cryptography.html](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-security-and-cryptography.html)
