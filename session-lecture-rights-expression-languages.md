@@ -51,12 +51,17 @@ Bill Rosenblatt of GiantSteps explains rights expression languages in the contex
 * [https://iptc.org/standards/rightsml](https://iptc.org/standards/rightsml)
 * [https://www.slideshare.net/smyles/rights-for-photo-and-video-archives-at-the-associated-press](https://www.slideshare.net/smyles/rights-for-photo-and-video-archives-at-the-associated-press)
 
+### Deeper Dive:
+
+* Here is a page with ODRL implementations: [https://www.w3.org/community/odrl/implementations](https://www.w3.org/community/odrl/implementations). Notice that there is a JavaScript evaluator from IPTC for the latest version (2.2), and there are APIs for the previous versions (2.0 and 2.1).
+
+* Renato himself started work on an ODRL profile for music, at [https://rightschain.github.io/odrl-music](https://rightschain.github.io/odrl-music). This doesn’t model some of the most relevant rights, but it should be a good starting point for students of the class.  It’s mainly focused on live performances, not DSPs.
 
 ## The DDEX Standard
 
 <img width="1054" alt="screen shot 2018-11-15 at 2 37 53 pm" src="https://user-images.githubusercontent.com/2357755/48577032-165a3c00-e8e4-11e8-83d5-1fcb3100dd9f.png">
 
-**Workshop course projects will include rapid prototyping of open source implementations of the DDEX standard.**
+**Workshop course projects will include rapid prototyping of open source implementations of some parts of the DDEX standard.**
 
 > DDEX is a consortium of leading media companies, music licensing organisations, digital service providers and technical intermediaries, focused on the creation of digital supply chain standards.
 
