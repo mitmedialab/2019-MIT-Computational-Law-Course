@@ -15,7 +15,9 @@
 
 -----------
 
-# Day 1: January 15 
+# Day 1: January 15th, 2019 11AM - 4PM Eastern Time
+
+This course day provides an introduction to Computational Law and a conceptual framework for understanding and solving legal use cases with data analytics, transaction automation and blockchain smart contracts.
 
 * This session will take place online.  Registered participants will receive connection information. 
 
@@ -59,7 +61,7 @@
 
 -------------
 
-# Day 2: January 16 
+# Day 2: January 16th, 2019 11AM - 4PM Eastern Time
 
 * This session will take place at MIT Media Lab, room E15-359
 
@@ -88,7 +90,7 @@
 
 -----------
 
-# Day 3: January 17th
+# Day 3: January 17th, 2019 11AM - 4PM Eastern Time
 
 * This session will take place online.  Registered participants will receive connection information. 
 
