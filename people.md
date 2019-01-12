@@ -99,5 +99,10 @@
 
 -----------------
 
+#### Eden Lang
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wbmGA_JJPlg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+-----------------
+
 #### |[Home](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course)|
 
