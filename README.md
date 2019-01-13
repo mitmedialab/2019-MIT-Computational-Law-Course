@@ -82,23 +82,35 @@ This course day provides an introduction to Computational Law and a conceptual f
 ------------
 
 
-### Session 02A: New Technologies for Copyright and Music Licensing
+### Session 02-MIT-A: New Technologies for Copyright and Music Licensing
 
 * [https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-copyright.html](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-copyright.html)
 
 ----------
 
-### Session 02B: Redbull Music System Solutions for Open Music Initiative Challenges
+### Session 02-MIT-B: Redbull Music System Solutions for Open Music Initiative Challenges
 
 * Coming Soon
 
 ----------
 
-### Session 02C: IBM Hyperledger Solutions for Open Music Initiative Challenges
+### Session 02-MIT-C: IBM Hyperledger Solutions for Open Music Initiative Challenges
 
 * Coming Soon
 
 -----------
+
+# Day 2 - Online Sessions
+
+### Session 02-Online-A: Part One of Small Working Group on "Integrating Interoperable Apps and Services with a Legal Platform"
+
+* Session Page Coming Soon
+
+Background materials:
+
+* [https://www.relativity.com/ediscovery-software](https://www.relativity.com/ediscovery-software) 
+* [https://www.youtube.com/watch?v=kYWCeILR90c](https://www.youtube.com/watch?v=kYWCeILR90c)
+* [https://nserio.com](https://nserio.com)
 
 # Day 3: January 17th, 2019 11AM - 4PM Eastern Time
 
@@ -118,7 +130,7 @@ This course day provides an introduction to Computational Law and a conceptual f
 
 ----------
 
-## Session 03C: Small Working Group on "Integrating Interoperable Apps and Services with Legal Platforms"
+## Session 03C: Small Working Group on "Integrating Interoperable Apps and Services with a Legal Platform"
 
 * Session Page Coming Soon
 
