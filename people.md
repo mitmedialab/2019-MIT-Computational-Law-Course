@@ -45,14 +45,6 @@
 
 ----------------
 
-#### Rieke Smakman 
-
-<img width="260" alt="screen shot 2019-01-08 at 7 33 17 pm" src="https://user-images.githubusercontent.com/2357755/50868165-4706a100-137c-11e9-8fe3-b21e94d6aa48.png">
-
-[https://www.linkedin.com/in/riekesmakman/](https://www.linkedin.com/in/riekesmakman/)
-
-----------------
-
 #### Paramjeet Singh
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g-UWWJFOkkY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -97,6 +89,10 @@
 -----------------
 
 #### Rieke Smakman
+
+<img width="260" alt="screen shot 2019-01-08 at 7 33 17 pm" src="https://user-images.githubusercontent.com/2357755/50868165-4706a100-137c-11e9-8fe3-b21e94d6aa48.png">
+
+[https://www.linkedin.com/in/riekesmakman/](https://www.linkedin.com/in/riekesmakman/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jil6vtlNdrI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
