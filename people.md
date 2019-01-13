@@ -122,5 +122,9 @@
 
 -----------------
 
+#### Brigitte MacDonald 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o3Ylha7w5Rk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### |[Home](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course)|
 
