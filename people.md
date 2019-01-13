@@ -126,5 +126,17 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o3Ylha7w5Rk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+-----------------
+
+#### Abdul Abdulrahim
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m1oDCyUwgkI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+-----------------
+
+#### Mike Shornick
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zI8NCgkFzW0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### |[Home](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course)|
 
