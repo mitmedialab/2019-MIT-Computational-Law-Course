@@ -6,7 +6,7 @@
 * Course Instructor: [Dazza Greenwood, Visiting Scientist at MIT Media Lab/law.MIT.edu](https://law.mit.edu/dazza) 
    * Co-Instructor: [George Howard, Berklee College of Music Professor/Lead Researcher, Open Music Initiative](https://www.berklee.edu/people/george-howard)
    * Co-Instructor: [Bryan Wilson, Legal Hackers](http://legalhackers.org)
-   * Teacher Assistant (TA): [Camila Rioja Arantes](https://www.linkedin.com/in/camila-rioja-arantes-384b3970) / Head of Legal Tech @ Opice Blum, Bruno, Abrusio and Vaizof LLP / Admitted to practice law in Brazil
+   * Teacher Assistant (TA): [Camila Rioja Arantes](https://www.linkedin.com/in/camila-rioja-arantes-384b3970) / Sao Paulo Legal Hackers Co-organizer / Head of Legal Tech @ Opice Blum, Bruno, Abrusio and Vaizof LLP / Admitted to practice law in Brazil
    * Team Mentor & Advocate (TMA): [Tiemae Roquerre](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Profile:-Tiemae-Roquerre) / Entrepreneurial Innovation Superstar
 * Course Wiki Site: [https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki)
 * 2019 Course Announcement and Wait List Application Page: [law.MIT.edu/Learning](https://law.mit.edu/Learning)
