@@ -74,7 +74,7 @@ infor
 * Juan Ramirez e-Discovery and Rapid Prototyping of Legal Tech Apps
 * Elizabeth Renieris - Competing Legal Frameworks for Humanity in the Data Driven Age
 * Michelle Gitlitz  - Smart Legal Contracts
-* Christina Colclough + Jonny Penn - Labor in the Digital Age
+* Jonny Penn - Labor in the Digital Age
 
 2:00-3:30 - Report Out + Discussion for Each Group
 
