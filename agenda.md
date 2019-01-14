@@ -15,11 +15,11 @@ infor
 
 1:15 - 1:30 BREAK
 
-1:30 - 2:00	- 01C - Chris Berendt - Computational Contracts 
+1:30 - 2:00	- 01E - Vickie Nauman - Music Industry Value Chain 
 
 2:00 - 2:15 - BREAK
 
-2:15 - 2:45	- 01E - Vickie Nauman - Music Industry Value Chain
+2:15 - 2:45	- 01C - Chris Berendt - Computational Contracts  
 
 2:45 - 3:00 - BREAK
 
