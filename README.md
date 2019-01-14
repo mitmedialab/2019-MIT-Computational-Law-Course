@@ -1,5 +1,7 @@
 # Computational Law Workshop Course
 
+##### |[Home](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course) | [Agenda](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/agenda) |
+
 * 2019 Working Syllabus: [https://mitmedialab.github.io/2019-MIT-Computational-Law-Course](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course)
 * **2019 Course Students**: [https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/people.html](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/people.html)
 * **2019 Course Team**
