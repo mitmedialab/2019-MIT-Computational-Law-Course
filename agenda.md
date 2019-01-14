@@ -1,10 +1,12 @@
 # Working Agenda 
 
+> This is a working agenda and will be refined as the week progresses.  Registered students will receive connection information for the online sessions on Day 1 and may participate by hangout in online breakout sessions on Day 2 and 3.  
+
 ## Day 1
 
 
 11:00 - 11:30 - 01A - Dazza Greenwood - Overview and launch
-
+infor
 11:30 - 12:00 - 01B - Bryan Wilson - Computational Law Overview and Docassemble
 
 12:00 - 12:30 - Break
@@ -47,6 +49,8 @@
 
 ## Day 2 Online Track 
 
+* NOTE: Day 2 online breakout session topics will be announced on Day 1. 
+
 1:00 - 1:45 - Session One (TBA)
 
 2:30 - 3:15 - Session Two (TBA)
@@ -60,11 +64,14 @@
 
 11:30-2:00 - Concurrent Breakout Sessions
 
+> NOTE: Some sessions may be moved to Day 2 so more people can access more topics. 
+
 * Brian Ulicny - VAT Tax
 * Beth McCarthy + Warren Agin - Bankruptcy
 * Juan Ramirez e-Discovery and Rapid Prototyping of Legal Tech Apps
 * Elizabeth Renieris - Competing Legal Frameworks for Humanity in the Data Driven Age
 * Michelle Gitlitz  - Smart Legal Contracts
+* Christina Colclough + Jonny Penn - Labor in the Digital Age
 
 2:00-3:30 - Report Out + Discussion for Each Group
 
