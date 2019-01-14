@@ -1,3 +1,5 @@
+##### |[Home](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course) | [Agenda](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/agenda) |
+
 # Working Agenda 
 
 > This is a working agenda and will be refined as the week progresses.  Registered students will receive connection information for the online sessions on Day 1 and may participate by hangout in online breakout sessions on Day 2 and 3.  
