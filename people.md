@@ -1,4 +1,4 @@
-#### |[Home](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course)|
+##### |[Home](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course) | [Agenda](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/agenda) |
 
 ## Students
 
