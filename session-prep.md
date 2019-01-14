@@ -30,7 +30,7 @@ Dazza Greenwood, Bryan Wilson and Mila Rioja will provide an overview of the cou
 
 coming soon 
 
-* Direct link to video: [coming soon]( )
+* Direct link to video: [https://youtu.be/Xe8apBgY79k](https://youtu.be/Xe8apBgY79k)
 
 -----------------
 
