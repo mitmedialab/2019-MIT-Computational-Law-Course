@@ -13,15 +13,15 @@ infor
 
 12:30 - 1:15 - 01D - Bill Rosenblatt - Rights Expression Languages
 
-1:15 - 1:30 BREAK
+1:15 - 1:30 Break
 
 1:30 - 2:00	- 01E - Vickie Nauman - Music Industry Value Chain 
 
-2:00 - 2:15 - BREAK
+2:00 - 2:15 - Break
 
 2:15 - 2:45	- 01C - Chris Berendt - Computational Contracts  
 
-2:45 - 3:00 - BREAK
+2:45 - 3:00 - Break
 
 3:00 - 3:30 - 01F - Christian Smith - Security, Cryptography and Protocols
 
@@ -37,11 +37,11 @@ infor
 
 11:15 - 12:15 - George Live Lecture Session (answer flipped CR and engage people in person)
 
-12:15 - 1:00 BREAK
+12:15 - 1:00 Break
 
 1:00-2:00 - Redbull Presentation
 
-2:00 - 2:30 BREAK
+2:00 - 2:30 Break
 
 2:30-3:30 - IBM Hyperledger Presentation
 
