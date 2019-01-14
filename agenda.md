@@ -2,7 +2,7 @@
 
 > This is a working agenda and will be refined as the week progresses.  Registered students will receive connection information for the online sessions on Day 1 and may participate by hangout in online breakout sessions on Day 2 and 3.  
 
-## Day 1
+## Day 1 (All Online) 
 
 
 11:00 - 11:30 - 01A - Dazza Greenwood - Overview and launch
@@ -28,7 +28,9 @@ infor
 3:30 - 4:00 - Dazza Greenwood - Synthesis and Wrap Up
 
 
-## Day 2 In - Person at MIT Media Lab
+## Day 2 
+
+### Day 2 In-Person Track at MIT Media Lab
 
 
 11:00 - 11:15 - Dazza: Welcome/Overview 
@@ -46,8 +48,7 @@ infor
 3:30-4:00 - General Discussion and Wrap Up
 
 
-
-## Day 2 Online Track 
+### Day 2 Online Track 
 
 * NOTE: Day 2 online breakout session topics will be announced on Day 1. 
 
@@ -56,7 +57,7 @@ infor
 2:30 - 3:15 - Session Two (TBA)
 
 
-## Day 3
+## Day 3  (All Online) 
 
 11:00-11:15 - Welcome/Overview of Firestarter 
 
@@ -66,7 +67,7 @@ infor
 
 > NOTE: Some sessions may be moved to Day 2 so more people can access more topics. 
 
-* Brian Ulicny - VAT Tax
+* Brian Ulicny - VAT Tax / Blockchain Scenario
 * Beth McCarthy + Warren Agin - Bankruptcy
 * Juan Ramirez e-Discovery and Rapid Prototyping of Legal Tech Apps
 * Elizabeth Renieris - Competing Legal Frameworks for Humanity in the Data Driven Age
