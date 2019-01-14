@@ -1,4 +1,49 @@
-##### |[Home](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course) | [Agenda](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/agenda) |
+##### |[Home](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course) | [Sessions](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/Session-Information) |[People](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/People) | [Resources](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/Resources) |
+----------
+# People
+
+## Core Team
+
+**2019 Course Team**
+
+##### Course Instructor: [Dazza Greenwood, Visiting Scientist at MIT Media Lab/law.MIT.edu](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Profile:-Dazza-Greenwood) 
+
+##### Co-Instructor: [George Howard, Berklee College of Music Professor/Lead Researcher, Open Music Initiative](https://www.berklee.edu/people/george-howard)
+
+##### Co-Instructor: [Bryan Wilson, Operations and Policy at RiskGenius & Founder of KC Legal Hackers](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Profile:-Bryan-Wilson)
+
+##### Teacher Assistant (TA): [Camila Rioja Arantes](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Profile:-Camila-Rioja) / Sao Paulo Legal Hackers Co-organizer / Head of Legal Tech @ Opice Blum, Bruno, Abrusio and Vaizof LLP / Admitted to practice law in Brazil
+
+##### Team Mentor & Advocate (TMA): [Tiemae Roquerre](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Profile:-Tiemae-Roquerre) / Entrepreneurial Innovation Superstar
+
+
+## Speakers
+
+[Beth McCarthy](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Profile:-Beth-McCarthy)
+
+[Bill Rosenblatt](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Profile:-Bill-Rosenblatt)
+
+[Brian Ulicny](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Profile:-Brian-Ulicny)
+
+[Christian Smith](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Profile:-Christian-Smith)
+
+[Christina Colclough](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Profile:-Christina-Colclough)
+
+[Elizabeth Renieris](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Profile:-Elizabeth-Renieris)
+
+[George Howard](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Profile:-George-Howard)
+
+[Houman Shadab](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Profile:-Houman-Shadab)
+
+[Johnnie Penn](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Profile:-Johnnie-Penn)
+
+[Juan Ramirez](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Profile:-Juan-Ramirez)
+
+[Michelle Gitlitz](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Profile:-Michelle-Gitlitz)
+
+[Vickie Nauman](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Profile:-Vickie-Nauman)
+
+[Warren Agin](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Profile:-Warren-Agin)
 
 ## Students
 
@@ -143,8 +188,3 @@
 #### Kevin Sandoval
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5sSsArbUIj0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
------------------
-
-#### |[Home](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course)|
-
