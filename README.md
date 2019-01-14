@@ -73,11 +73,11 @@ This course day provides an introduction to Computational Law and a conceptual f
 
 # Day 2: January 16th, 2019 11AM - 4PM Eastern Time
 
-* This session will take place at MIT Media Lab, room E15-359
-
 ------------
 
 ## Open Music Initiative  
+
+* This session will take place at MIT Media Lab, room E15-359
 
 ------------
 
@@ -100,9 +100,13 @@ This course day provides an introduction to Computational Law and a conceptual f
 
 -----------
 
-# Day 2 - Online Sessions
+## Day 2 - Online Sessions
 
-### Session 02-Online-A: Part One of Small Working Group on "Integrating Interoperable Apps and Services with a Legal Platform"
+* These additional online sessions have been added by popular demand.  Registered participants will receive connection information. 
+
+------------
+
+## Session 02-Online-A: Small Working Group on "Integrating Interoperable Apps and Services with a Legal Platform" - Part One 
 
 * Session Page Coming Soon
 
@@ -124,13 +128,13 @@ Background materials:
 
 ----------
 
-## Session 03B: Small Working Group on Discussion on "How Might the Bankruptcy Court Treat Blockchain Token Holders in a Bankruptcy Case?"
+## Session 03B: Small Working Group on "How Might the Bankruptcy Court Treat Blockchain Token Holders in a Bankruptcy Case?"
 
 * Session Page Coming Soon.  [Working Notes](https://www.are.na/beth-mccarthy/business-legal-tech-dynamics)
 
 ----------
 
-## Session 03C: Small Working Group on "Integrating Interoperable Apps and Services with a Legal Platform"
+## Session 03C: Small Working Group on "Integrating Interoperable Apps and Services with a Legal Platform" - Part Two 
 
 * Session Page Coming Soon
 
