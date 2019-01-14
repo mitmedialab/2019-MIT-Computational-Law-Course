@@ -1,3 +1,6 @@
+##### |[Home](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course) | [Sessions](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/Session-Information) |[People](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/People) | [Resources](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/Resources) |
+---------
+
 # Session Information
 
 #### January 14, 2019 - Online
