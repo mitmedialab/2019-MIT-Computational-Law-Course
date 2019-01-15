@@ -6,11 +6,11 @@
 
 The 2019 MIT IAP Computational Law course is a free, open, and digital-first class. The structure of the course involves a series of flipped-classroom lectures ([sessions](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/Sessions)) that have been pre-recorded on youtube live, on-going commentary through our [class telegram channel](https://t.me/joinchat/HT4a1hFg6GWbPJqtnqWwZg), and pidgeonhole widgets for providing synchronous and asynchronous feedback to lectures through comments, voting, and other real-time polling functions.
 
-For information about the sessions, including the content and agenda, click [here](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/Session-Information)
+For information about the sessions, including the content and agenda, click [here](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/Session-Information.html)
 
-For a roster of the core team, speakers, and accepted participants, click [here](ttps://mitmedialab.github.io/2019-MIT-Computational-Law-Course/People)
+For a roster of the core team, speakers, and accepted participants, click [here](ttps://mitmedialab.github.io/2019-MIT-Computational-Law-Course/People.html)
 
-For class resources, click [here](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/Resources)
+For class resources, click [here](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/Resources.html)
 
 ## Course Overview
 
