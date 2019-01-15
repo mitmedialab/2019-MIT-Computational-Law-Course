@@ -2,6 +2,9 @@
 
 # Participatory Engagement 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wikEBDN1g_k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+##### Day 1 Live Stream
+
 ## Information Security, Cryptography and Protocols
         
 Christian Smith of Stranger Labs provides an overview of information security, cryptography and technical protocols with Dazza Greenwood. This video is intended as background and prep for the MIT Computational Law workshop course.
