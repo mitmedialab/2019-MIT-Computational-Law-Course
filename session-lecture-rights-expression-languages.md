@@ -2,8 +2,8 @@
 
 # Participatory Engagement 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wikEBDN1g_k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-##### Day 1 Live Stream
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8L-4_RPeUgY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+##### Live Stream: Day 1, pt. 2
 
 ## Lecture Session: Rights Expression Languages, or Copyright Law Rumbles with Technology in a Dark Alley
         
