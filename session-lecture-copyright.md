@@ -40,7 +40,7 @@ George Howard of Berklee College of Music and Open Music Initiative discussed co
 
 ### [IBM Hyperledger](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Technology:-IBM-Hyperledger)
 
-### [Red Bll Media House](https://www.redbullmediahouse.com/)
+### [Red Bull Media House](https://www.redbullmediahouse.com/)
 
 Find relevant files here: [https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/tree/master/RedBull](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/tree/master/RedBull)
 
