@@ -1,4 +1,4 @@
-##### |[Home](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course.html) | [Sessions](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/Session-Information.html) |[People](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/People.html) | [Resources](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/Resources.html) |
+##### |[Home](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course) | [Sessions](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/Session-Information.html) |[People](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/People.html) | [Resources](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/Resources.html) |
 ----------
 # People
 
