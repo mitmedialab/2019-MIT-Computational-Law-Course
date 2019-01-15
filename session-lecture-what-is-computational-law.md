@@ -1,5 +1,8 @@
 #### |[Home](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course)|
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wikEBDN1g_k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+##### Day 1 Live Stream
+
 # Participatory Engagement 
 
 ## Lecture Session: What is Computational Law?
