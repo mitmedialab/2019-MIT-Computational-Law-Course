@@ -2,8 +2,7 @@
 ----------
 # Home
 
-### [Day 1 Livestream](https://www.youtube.com/c/lawMITedu/live)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wikEBDN1g_k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### [Day 1 Livestream pt. 3](https://www.youtube.com/embed/D7CEma2TjUA)
 
 ##### [Course Introduction Video](https://www.youtube.com/embed/esLcXNZ-Jso)
 
