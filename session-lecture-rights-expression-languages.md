@@ -2,6 +2,9 @@
 
 # Participatory Engagement 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wikEBDN1g_k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+##### Day 1 Live Stream
+
 ## Lecture Session: Rights Expression Languages, or Copyright Law Rumbles with Technology in a Dark Alley
         
 Bill Rosenblatt of GiantSteps explains rights expression languages in the context of computational licenses for IP.
