@@ -2,6 +2,9 @@
 
 # Participatory Engagement 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wikEBDN1g_k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+##### Day 1 Live Stream
+
 ## Computational Law and Docassemble
         
 Bryan Wilson discusses computational law in general with Dazza Greenwood and Camila Rioja Arantes and explores Docassemble as a working example. This video is intended as background and prep for Day 2 of the MIT Computational Law workshop course.
