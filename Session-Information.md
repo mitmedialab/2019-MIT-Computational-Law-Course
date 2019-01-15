@@ -14,6 +14,9 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8L-4_RPeUgY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ##### Live Stream: Day 1 pt. 2
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D7CEma2TjUA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+##### Live Stream: Day 1 pt. 3
+
 ### 11:00 am - 11:30 am Eastern
 * [What is Computational Law?](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-what-is-computational-law.html)
 * Dazza Greenwood
