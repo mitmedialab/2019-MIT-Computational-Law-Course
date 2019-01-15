@@ -2,6 +2,9 @@
 
 # Participatory Engagement 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8L-4_RPeUgY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+##### Live Stream: Day 1, pt. 2
+
 ## Lecture Session: Music Industry Value Chain & Business Landscape
 
 Vickie Nauman, Founder CrossBorderWorks and Strategic Advisor to Open Music Initiative (Berklee College of Music) describes the music industry value chain, licensing models and business landscape.
