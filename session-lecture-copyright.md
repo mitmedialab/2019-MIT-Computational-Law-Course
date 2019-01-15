@@ -37,5 +37,10 @@ George Howard of Berklee College of Music and Open Music Initiative discussed co
 ## Further materials
 
 * Balázs Bodó, Daniel Gervais, João Pedro Quintais; Blockchain and smart contracts: the missing link in copyright licensing?, International Journal of Law and Information Technology, Volume 26, Issue 4, 1 December 2018, Pages 311–336, https://doi.org/10.1093/ijlit/eay014
-* [IBM Hyperledger](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Technology:-IBM-Hyperledger)
-* [Redbull Records](https://redbullrecords.com/)
+
+### [IBM Hyperledger](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Technology:-IBM-Hyperledger)
+
+### [Red Bll Media House](https://www.redbullmediahouse.com/)
+
+Find relevant files here: [https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/tree/master/RedBull](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/tree/master/RedBull)
+
