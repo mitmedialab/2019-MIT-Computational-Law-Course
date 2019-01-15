@@ -58,7 +58,7 @@
 ### 2:30 pm - 3:30 pm Eastern
 * [IBM Hyperledger Solutions for Open Music Initiative Challenges](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Technology:-IBM-Hyperledger)
 
-## January 16, 2019 Online - **Online**
+## January 16, 2019 - **Online**
 
 ### 2:30 pm - 3:15 pm Eastern
 * Small Working Group on "[How Might a Computational Jurisdiction be Designed, Built, and Tested?](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-challenge-computational-jurisdiction.html)"
