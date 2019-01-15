@@ -9,14 +9,18 @@
 #### January 15, 2019 Online
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wikEBDN1g_k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-Day 1 Live Stream
+###### Day 1 Live Stream
 
 
 ##### Introduction to Computational Law
 Dazza Greenwood and Bryan Wilson 
 11:00 am - 11:30 am Eastern
-* [What is Computational Law?](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-what-is-computational-law.html) by Dazza Greenwood
-* [Computational Law Overview and Docassemble](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-computational-law-and-docassemble.html) by Bryan Wilson
+##### [What is Computational Law?](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-what-is-computational-law.html)
+Dazza Greenwood
+
+##### [Computational Law Overview and Docassemble](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-computational-law-and-docassemble.html)
+Bryan Wilson
+11:30 am - 12:00 pm Eastern
 
 ##### [Rights Expression Languages](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-rights-expression-languages.html)
 Bill Rosenblatt
