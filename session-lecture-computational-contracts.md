@@ -3,6 +3,9 @@
 
 # Participatory Engagement 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wikEBDN1g_k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+##### Day 1 Live Stream
+
 ## Lecture Session: Computational Contracts
         
 Chris Berendt of Drinker Biddle explains computational contracts with examples in the energy sector.
