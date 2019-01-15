@@ -8,6 +8,10 @@
 
 #### January 15, 2019 Online
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wikEBDN1g_k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Day 1 Live Stream
+
+
 ##### Introduction to Computational Law
 Dazza Greenwood and Bryan Wilson 
 11:00 am - 11:30 am Eastern
