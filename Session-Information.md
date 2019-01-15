@@ -6,79 +6,78 @@
 #### January 14, 2019 - Online
 [Session Prep](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-prep.html) at 7:00 pm Eastern
 
-#### January 15, 2019 Online
+## January 15, 2019 Online
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wikEBDN1g_k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-###### Day 1 Live Stream
+##### Day 1 Live Stream
+
+### 11:00 am - 11:30 am Eastern
+* [What is Computational Law?](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-what-is-computational-law.html)
+* Dazza Greenwood
+
+### 11:30 am - 12:00 pm Eastern
+* [Computational Law Overview and Docassemble](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-computational-law-and-docassemble.html)
+* Bryan Wilson
 
 
-##### Introduction to Computational Law
-Dazza Greenwood and Bryan Wilson 
-11:00 am - 11:30 am Eastern
-##### [What is Computational Law?](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-what-is-computational-law.html)
-Dazza Greenwood
-
-##### [Computational Law Overview and Docassemble](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-computational-law-and-docassemble.html)
-Bryan Wilson
-11:30 am - 12:00 pm Eastern
-
-##### [Rights Expression Languages](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-rights-expression-languages.html)
-Bill Rosenblatt
+### 12:30 pm - 1:15 pm Eastern 
+* [Rights Expression Languages](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-rights-expression-languages.html)
+* Bill Rosenblatt
 12:30 pm - 1:15 pm Eastern
 
-##### [Music Industry Value Chain](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-value-chain.html)
-Vickie Nauman
-1:30 pm - 2:00 pm Eastern
+### 1:30 pm - 2:00 pm Eastern
+* [Music Industry Value Chain](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-value-chain.html)
+* Vickie Nauman
 
-##### [Computational Contracts](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-computational-contracts.html)
-Chris Berendt
+### 2:15 pm - 2:45 pm Eastern
+* [Computational Contracts](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-computational-contracts.html)
+* Chris Berendt
 2:15 pm - 2:45 pm Eastern
 
-##### [Security, Cryptography, and Protocols](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-security-and-cryptography.html)
-Christian Smith
-3:00 pm - 3:30 pm Eastern
+### 3:00 pm - 3:30 pm Eastern
+* [Security, Cryptography, and Protocols](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-security-and-cryptography.html)
+* Christian Smith
 
-##### Wrap up and Synthesis
-Dazza Greenwood
-3:30 pm - 4:00 pm Eastern
+### 3:30 pm - 4:00 pm Eastern
+* Wrap up and Synthesis
+* Dazza Greenwood
 
-#### Day 2 - In-person
+## January 16, 2019 - **In-person**
 
-##### Welcome and Overview
-Dazza Greenwood
-11:00 am - 11:15 am Eastern
+### 11:00 am - 11:15 am Eastern
+* Welcome and Overview
+* Dazza Greenwood
 
-##### [New Technologies for Copyright and Music Licensing](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-copyright.html)
-George Howard
-11:15 am - 12:15 pm Eastern
+### 11:15 am - 12:15 pm Eastern
+* [New Technologies for Copyright and Music Licensing](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-copyright.html)
+* George Howard
 
-##### [Redbull Music System Solutions for Open Music Initiative Challenges](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Technology:-Red-Bull)
-1:00 pm - 2:00 pm Eastern
+### 1:00 pm - 2:00 pm Eastern
+* [Redbull Music System Solutions for Open Music Initiative Challenges](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Technology:-Red-Bull)
 
-##### [IBM Hyperledger Solutions for Open Music Initiative Challenges](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Technology:-IBM-Hyperledger)
-2:30 pm - 3:30 pm Eastern
+### 2:30 pm - 3:30 pm Eastern
+* [IBM Hyperledger Solutions for Open Music Initiative Challenges](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Technology:-IBM-Hyperledger)
 
-#### Day 2 - Online
+## January 16, 2019 Online - **Online**
 
-Workshop session 1
+### 2:30 pm - 3:15 pm Eastern
+* Small Working Group on "[How Might a Computational Jurisdiction be Designed, Built, and Tested?](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-challenge-computational-jurisdiction.html)"
+* Bryan Wilson and Brian Ulicny 
 
-##### Small Working Group on "[How Might a Computational Jurisdiction be Designed, Built, and Tested?](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-challenge-computational-jurisdiction.html)"
-Bryan Wilson and Brian Ulicny 
+## January 17, 2019 - Online
 
-#### Day 3 - Online
-
-##### Small Working Group on "[How Might the Bankruptcy Court Treat Blockchain Token Holders in Bankruptcy Case?](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Resources:-Dynamics-Design-Workshop)"
+### Small Working Group on "[How Might the Bankruptcy Court Treat Blockchain Token Holders in Bankruptcy Case?](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Resources:-Dynamics-Design-Workshop)"
 Beth McCarthy and Warren Agin
 
-##### Small Working Group on "[Integrating Interoperable Apps and Services with a Legal Platform](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-interoperable-legal-apps-and-services)"
+### Small Working Group on "[Integrating Interoperable Apps and Services with a Legal Platform](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-interoperable-legal-apps-and-services)"
 Juan Ramirez
 
-##### Small Working Group on "[Competing Legal Frameworks for Humanity in the Data Driven Age](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Session:-Competing-Legal-Frameworks-for-Humanity-in-the-Data-Driven-Age)"
+### Small Working Group on "[Competing Legal Frameworks for Humanity in the Data Driven Age](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Session:-Competing-Legal-Frameworks-for-Humanity-in-the-Data-Driven-Age)"
 Elizabeth Renieris
 
-##### Small Working Group on "[Smart Contracts for Music Licensing](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-smart-contracts-and-the-law)"
+### Small Working Group on "[Smart Contracts for Music Licensing](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-smart-contracts-and-the-law)"
 Michelle Gitlitz
 
-##### Small Working Group on "VAT Tax"
+### Small Working Group on "VAT Tax"
 Brian Ulicny
 
