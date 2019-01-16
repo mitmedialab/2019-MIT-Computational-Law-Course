@@ -65,11 +65,14 @@
 
 ## January 16, 2019 - **Online**
 
-### 1:00 pm - 1:45 pm Eastern
+### 1:00 pm - 1:05 pm Eastern
+[Opening Plenary Session](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/lecture-day-2-plenary.html)
+
+### 1:05 pm - 1:45 pm Eastern
 * Interactive Overview of [Legal Hackers](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-Legal-Hackers-2019.html)
 * Jameson Dempsey
 
-### 1:00 pm - 1:45 pm Eastern
+### 1:05 pm - 1:45 pm Eastern
 Small Working Group on "[Integrating Interoperable Apps and Services with a Legal Platform pt. 1](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-interoperable-legal-apps-and-services)"
 Juan Ramirez
 
@@ -79,7 +82,10 @@ Juan Ramirez
 
 ### 2:30 pm - 3:15 pm Eastern
 * Small Working Group on "[How Might a Computational Jurisdiction be Designed, Built, and Tested?](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-challenge-computational-jurisdiction.html)"
-* Bryan Wilson and Brian Ulicny 
+* Bryan Wilson and Brian Ulicny
+
+### 3:15 pm - 3:20 pm Eastern
+[Closing Plenary Session](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/lecture-day-2-plenary.html)
 
 ## January 17, 2019 - Online
 
