@@ -12,7 +12,7 @@
             height: "568px",
             passcode: "LAWMIT",
             className: "pigeonhole-iframe",
-            sessionId: 0, // 0 here indicates that the widget will load the agenda.
+            sessionId: 192894, 
         });
     </script>
 <div class="pigeonhole-iframe"></div>
