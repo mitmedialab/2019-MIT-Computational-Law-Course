@@ -2,6 +2,8 @@
 
 # Participatory Engagement 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iolHqLIVhFI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Challenge Session: Design and Test a Computational Jurisdiction
         
 In the [video below](https://youtu.be/-pboxAUgiUA), Christoph Pereira of GE poses a creative challenge at the 2017 MIT Legal Forum to design and text a computational municipal jusidiction.  Please review Christoph's presentation (the audience discussion following the presentation is informative, but optional) and then provide your feedback through the PigeonHole widget below on how one might design, build and test such a system. 
