@@ -25,7 +25,6 @@
 * [Computational Law Overview and Docassemble](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-computational-law-and-docassemble.html)
 * Bryan Wilson
 
-
 ### 12:30 pm - 1:15 pm Eastern 
 * [Rights Expression Languages](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-rights-expression-languages.html)
 * Bill Rosenblatt
@@ -84,18 +83,24 @@ Juan Ramirez
 
 ## January 17, 2019 - Online
 
-### Small Working Group on "[How Might the Bankruptcy Court Treat Blockchain Token Holders in Bankruptcy Case?](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Resources:-Dynamics-Design-Workshop)"
-Beth McCarthy and Warren Agin
+### 11:00 am - 11:15 am Eastern
+* Welcome/Overview of Firestarter
 
-### Small Working Group on "[Integrating Interoperable Apps and Services with a Legal Platform](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-interoperable-legal-apps-and-services)"
-Juan Ramirez
+### 11:15 am - 11:30 am Eastern
+* Self-organize into breakout sessions
 
-### Small Working Group on "[Competing Legal Frameworks for Humanity in the Data Driven Age](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Session:-Competing-Legal-Frameworks-for-Humanity-in-the-Data-Driven-Age)"
-Elizabeth Renieris
+### 11:30 am - 2:00 pm Eastern
+* Concurrent Breakout Sessions 
 
-### Small Working Group on "[Smart Contracts for Music Licensing](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-smart-contracts-and-the-law)"
-Michelle Gitlitz
+##### Small Working Group on "[How Might the Bankruptcy Court Treat Blockchain Token Holders in Bankruptcy Case?](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Resources:-Dynamics-Design-Workshop)" with Beth McCarthy and Warren Agin
 
-### Small Working Group on "VAT Tax"
-Brian Ulicny
+##### Small Working Group on "[Integrating Interoperable Apps and Services with a Legal Platform](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-interoperable-legal-apps-and-services)" with Juan Ramirez
+
+##### Small Working Group on "[Competing Legal Frameworks for Humanity in the Data Driven Age](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Session:-Competing-Legal-Frameworks-for-Humanity-in-the-Data-Driven-Age)" with Elizabeth Renieris
+
+##### Small Working Group on "[Smart Contracts for Music Licensing](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-smart-contracts-and-the-law)" with Michelle Gitlitz
+
+##### Small Working Group on "VAT Tax" with Brian Ulicny
+
+##### Small Working Group on "[Collectivization of Knowledge: The Urgency of Now](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-Collectivization-of-Knowledge-The-Urgency-of-Now.html)" with Johnnie Penn
 
