@@ -100,7 +100,7 @@ Juan Ramirez
 
 ##### Small Working Group on "[Smart Contracts for Music Licensing](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-smart-contracts-and-the-law)" with Michelle Gitlitz
 
-##### Small Working Group on "VAT Tax" with Brian Ulicny
+##### Small Working Group on "[VAT Tax](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-breakout-VAT-Tax.html)" with Brian Ulicny
 
 ##### Small Working Group on "[Collectivization of Knowledge: The Urgency of Now](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-Collectivization-of-Knowledge-The-Urgency-of-Now.html)" with Johnnie Penn
 
