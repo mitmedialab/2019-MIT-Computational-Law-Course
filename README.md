@@ -6,7 +6,11 @@
 
 Please join us at 1-1:05 PM eastern time for the starting session for Day 2.  We will intro all the breakout sessions and you may select the sessions you wish to join for the day.
 
+### Select your breakout sessions and give us feedback on the course at the [Day 2 Plenary Page](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/lecture-day-2-plenary.html)
+
 <iframe width="420" height="315" src="http://www.youtube.com/embed/AajoW8Gngrs" frameborder="0" allowfullscreen></iframe>
+
+----------
 
 ### [Day 1 Livestream pt. 3](https://www.youtube.com/embed/D7CEma2TjUA)
 
