@@ -63,6 +63,10 @@
 ### 2:30 pm - 3:30 pm Eastern
 * [IBM Hyperledger Solutions for Open Music Initiative Challenges](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Technology:-IBM-Hyperledger)
 
+### 3:30 pm - 3:35 pm Easter
+* Closing Plenary
+<iframe width="420" height="315" src="http://www.youtube.com/embed/b9LM-Mvl-as" frameborder="0" allowfullscreen></iframe>
+
 ## January 16, 2019 - **Online**
 
 ### 1:00 pm - 1:05 pm Eastern
@@ -105,8 +109,6 @@ Juan Ramirez
 ##### Small Working Group on "[Competing Legal Frameworks for Humanity in the Data Driven Age](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Session:-Competing-Legal-Frameworks-for-Humanity-in-the-Data-Driven-Age)" with Elizabeth Renieris
 
 ##### Small Working Group on "[Smart Contracts for Music Licensing](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-smart-contracts-and-the-law)" with Michelle Gitlitz
-
-##### Small Working Group on "[VAT Tax](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-breakout-VAT-Tax.html)" with Brian Ulicny
 
 ##### Small Working Group on "[Collectivization of Knowledge: The Urgency of Now](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-Collectivization-of-Knowledge-The-Urgency-of-Now.html)" with Johnnie Penn
 
