@@ -21,7 +21,7 @@ In the [video below](https://youtu.be/-pboxAUgiUA), Christoph Pereira of GE pose
             height: "568px",
             passcode: "LAWMIT",
             className: "pigeonhole-iframe",
-            sessionId: 189884, 
+            sessionId: 0, // 0 here indicates that the widget will load the agenda.
         });
     </script>
 <div class="pigeonhole-iframe"></div>
