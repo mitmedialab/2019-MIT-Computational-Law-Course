@@ -49,6 +49,9 @@
 
 ## January 16, 2019 - **In-person**
 
+### Day 2 In-Person Wrap-Up Session
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h1GEQVSj-vQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### 11:00 am - 11:15 am Eastern
 * Welcome and Overview
 * Dazza Greenwood
