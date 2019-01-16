@@ -23,3 +23,12 @@ Closing Plenary for online session
         });
     </script>
 <div class="pigeonhole-iframe"></div>
+
+### [Day 2 Livestream part 1)(http://youtu.be/AajoW8Gngrs): Opening Plenary Session for Day 2
+
+Please join us at 1-1:05 PM eastern time for the starting session for Day 2.  We will intro all the breakout sessions and you may select the sessions you wish to join for the day.
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/AajoW8Gngrs" frameborder="0" allowfullscreen></iframe>
+
+
+----------
