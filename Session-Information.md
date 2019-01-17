@@ -4,6 +4,26 @@
 
 # Day 3 - January 17, 2019 - Online
 
+## Closing Plenary
+
+<script type="text/javascript">
+        (function(p,i,g,e,o,n,s){p[o]=p[o]||function(){(p[o].q=p[o].q||[]).push(arguments)},
+            n=i.createElement(g),s=i.getElementsByTagName(g)[0];n.async=1;n.src=e;
+            s.parentNode.insertBefore(n,s);})
+            (window,document,'script','https://static.pigeonhole.at/widget/pigeon-widget.js','phl');
+        phl("create", {
+            width: "320px",
+            height: "568px",
+            passcode: "LAWMIT",
+            className: "pigeonhole-iframe",
+            sessionId: 193767, 
+        });
+    </script>
+<div class="pigeonhole-iframe"></div>
+
+---------
+
+
 ## 11:00 am - 11:30 am Eastern	OPENING PLENARY 
 
  * Welcome and overview of breakout sessions	
