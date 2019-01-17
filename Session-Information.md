@@ -46,7 +46,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cmOcuqzvPQw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* Direct link to plenary video stream: [https://youtu.be/cmOcuqzvPQw](https://youtu.be/cmOcuqzvPQw)
+* Direct link to closing plenary video stream: [https://youtu.be/cmOcuqzvPQw](https://youtu.be/cmOcuqzvPQw)
 
 #### 2:30 pm - 3:00 pm Eastern
 * Report outs from each small group discussiom
