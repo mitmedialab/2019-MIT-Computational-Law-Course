@@ -1,55 +1,53 @@
 ##### |[Home](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course) | [Agenda](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/Session-Information.html) | [People](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/People.html) | [Resources](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/Resources.html) |
 ---------
 
-# Session Information
-
 # Day 3 - January 17, 2019 - Online
 
+## OPENING PLENARY SESSION 11:00 am - 11:30 am Eastern
 
- ### 11:00 am - 11:30 am Eastern	# OPENING PLENARY SESSION 11:00 am - 11:30 am Eastern
-
+### 11:00 am - 11:30 am Eastern	
 
  * Welcome/Overview of breakout sessions	* Welcome/Overview of breakout sessions
 
-
- ### 11:30 am - 2:00 pm Eastern	<iframe width="560" height="315" src="https://www.youtube.com/embed/7luFmLM1_Zs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### 11:30 am - 2:00 pm Eastern	<iframe width="560" height="315" src="https://www.youtube.com/embed/7luFmLM1_Zs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  Direct link: [https://youtu.be/7luFmLM1_Zs]
 
- # BREAKOUT SESSIONS 11:30 am - 2:00 pm Eastern
+## BREAKOUT SESSIONS 11:30 am - 2:00 pm Eastern
 
- > Concurrent Breakout Sessions 	> Concurrent Breakout Sessions 
-##### Small Working Group on "[How Might the Bankruptcy Court Treat Blockchain Token Holders in Bankruptcy Case?](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-workshop-dynamics-design-workshop.html)" with Beth McCarthy and Warren Agin
+ > Concurrent Breakout Sessions 	
+ 
+#### Small Working Group on "[How Might the Bankruptcy Court Treat Blockchain Token Holders in Bankruptcy Case?](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-workshop-dynamics-design-workshop.html)" with Beth McCarthy and Warren Agin
 
-##### Small Working Group on "[Integrating Interoperable Apps and Services with a Legal Platform](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-interoperable-legal-apps-and-services)" with Juan Ramirez
+#### Small Working Group on "[Integrating Interoperable Apps and Services with a Legal Platform](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-interoperable-legal-apps-and-services)" with Juan Ramirez
 
-##### Small Working Group on "[Smart Contracts for Music Licensing](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-smart-contracts-and-the-law)" with Michelle Gitlitz
+#### Small Working Group on "[Smart Contracts for Music Licensing](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-smart-contracts-and-the-law)" with Michelle Gitlitz
 
-##### Small Working Group on "[Collectivization of Knowledge: The Urgency of Now](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-Collectivization-of-Knowledge-The-Urgency-of-Now.html)" with Johnnie Penn
+#### Small Working Group on "[Collectivization of Knowledge: The Urgency of Now](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-Collectivization-of-Knowledge-The-Urgency-of-Now.html)" with Johnnie Penn
 
-##### Small Working Group on "[Competing Legal Frameworks for Humanity in the Data Driven Age](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-Legal-Frameworks-for-Identity)" with Elizabeth Renieris*
+#### Small Working Group on "[Competing Legal Frameworks for Humanity in the Data Driven Age](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-Legal-Frameworks-for-Identity)" with Elizabeth Renieris*
 * **Note This session starts at 12:45 pm**
 
- ### 2:30 pm - 3:00 pm Eastern	# CLOSING PLENARY 2:30 pm - 4:00 pm 
-* Report outs from each small group discussiom	
+## CLOSING PLENARY 2:30 pm - 4:00 pm 
 
+### 2:30 pm - 3:00 pm Eastern	
+
+* Report outs from each small group discussiom	
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/cmOcuqzvPQw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
- ### 3:00 pm - 3:45 pm Eastern	* Direct link to plenary video stream: [https://youtu.be/cmOcuqzvPQw](https://youtu.be/cmOcuqzvPQw)
+### 3:00 pm - 3:45 pm Eastern	* Direct link to plenary video stream: [https://youtu.be/cmOcuqzvPQw](https://youtu.be/cmOcuqzvPQw)
 
- ## 2:30 pm - 3:00 pm Eastern
+### 2:30 pm - 3:00 pm Eastern
 * Report outs from each small group discussiom
 
- ## 3:00 pm - 3:45 pm Eastern
-* General discussion	* General discussion
+### 3:00 pm - 3:45 pm Eastern
+* General discussion
 
-
- ### 3:45 pm - 4:00 pm Eastern	### 3:45 pm - 4:00 pm Eastern
-@@ -38,6 +47,7 @@
-
-
+### 3:45 pm - 4:00 pm Eastern	### 3:45 pm - 4:00 pm Eastern
+ 
+* Wrap up and preview of upcoming relevant projects, events and other initiatives.
 
 
 
