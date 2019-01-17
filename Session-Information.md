@@ -110,6 +110,7 @@ Juan Ramirez
 ##### Small Working Group on "[Integrating Interoperable Apps and Services with a Legal Platform](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-interoperable-legal-apps-and-services)" with Juan Ramirez
 
 ##### Small Working Group on "[Competing Legal Frameworks for Humanity in the Data Driven Age](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Session:-Competing-Legal-Frameworks-for-Humanity-in-the-Data-Driven-Age)" with Elizabeth Renieris
+ _Note_ This session starts at 12:45
 
 ##### Small Working Group on "[Smart Contracts for Music Licensing](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-smart-contracts-and-the-law)" with Michelle Gitlitz
 
