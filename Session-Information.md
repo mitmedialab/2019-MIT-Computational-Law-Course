@@ -21,7 +21,7 @@
 
 ##### Small Working Group on "[Collectivization of Knowledge: The Urgency of Now](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-Collectivization-of-Knowledge-The-Urgency-of-Now.html)" with Johnnie Penn
 
-##### Small Working Group on "[Competing Legal Frameworks for Humanity in the Data Driven Age](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Session:-Competing-Legal-Frameworks-for-Humanity-in-the-Data-Driven-Age)" with Elizabeth Renieris*
+##### Small Working Group on "[Competing Legal Frameworks for Humanity in the Data Driven Age](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-Legal-Frameworks-for-Identity)" with Elizabeth Renieris*
 * **Note This session starts at 12:45 pm**
 
 ### 2:30 pm - 3:00 pm Eastern
