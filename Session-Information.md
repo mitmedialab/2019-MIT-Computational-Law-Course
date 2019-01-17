@@ -14,7 +14,6 @@
 
 ## 11:30 am - 2:00 pm Eastern	SMALL GROUPS
 
-
  > Concurrent Breakout Sessions 	
  
 #### Small Working Group on "[How Might the Bankruptcy Court Treat Blockchain Token Holders in Bankruptcy Case?](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-workshop-dynamics-design-workshop.html)" with Beth McCarthy and Warren Agin
@@ -22,6 +21,7 @@
 #### Small Working Group on "[Integrating Interoperable Apps and Services with a Legal Platform](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-interoperable-legal-apps-and-services)" with Juan Ramirez
 
 #### Small Working Group on "[Smart Contracts for Music Licensing](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-smart-contracts-and-the-law)" with Michelle Gitlitz
+* **Note: This session starts at 1:15 pm**
 
 #### Small Working Group on "[Collectivization of Knowledge: The Urgency of Now](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-Collectivization-of-Knowledge-The-Urgency-of-Now.html)" with Johnnie Penn
 
