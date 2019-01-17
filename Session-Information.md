@@ -32,6 +32,10 @@
  
 #### Small Working Group on "[How Might the Bankruptcy Court Treat Blockchain Token Holders in Bankruptcy Case?](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-workshop-dynamics-design-workshop.html)" with Beth McCarthy and Warren Agin
 
+<iframe width="420" height="315" src="http://www.youtube.com/embed/d0MdT9giSrQ" frameborder="0" allowfullscreen></iframe>
+
+* Direct link: [http://youtu.be/d0MdT9giSrQ](http://youtu.be/d0MdT9giSrQ)
+
 #### Small Working Group on "[Integrating Interoperable Apps and Services with a Legal Platform](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-interoperable-legal-apps-and-services)" with Juan Ramirez
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RGMkGrkMtJs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
