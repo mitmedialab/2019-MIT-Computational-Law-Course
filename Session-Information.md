@@ -115,3 +115,5 @@ Juan Ramirez
 
 ##### Small Working Group on "[Collectivization of Knowledge: The Urgency of Now](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-Collectivization-of-Knowledge-The-Urgency-of-Now.html)" with Johnnie Penn
 
+### 2:30 pm - 4:00 pm Eastern
+Report outs and wrap up session 
