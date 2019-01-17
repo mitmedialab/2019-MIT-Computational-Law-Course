@@ -7,7 +7,7 @@
 
 ### 11:00 am - 11:30 am Eastern	
 
- * Welcome/Overview of breakout sessions	* Welcome/Overview of breakout sessions
+ * Welcome and overview of breakout sessions	* Welcome/Overview of breakout sessions
 
 ### 11:30 am - 2:00 pm Eastern	
 
