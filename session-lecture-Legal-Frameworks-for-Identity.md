@@ -1,13 +1,8 @@
 # Legal Frameworks for Identity and Personal Data
 
-* Invited lecturer: [Elizabeth Renieris](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Profile:-Elizabeth-Renieris)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dPmK17nx4_Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-  * Pre-Reading Material: [Do we really want to “sell” ourselves? The risks of a property law paradigm for personal data ownership](https://medium.com/@hackylawyER/do-we-really-want-to-sell-ourselves-the-risks-of-a-property-law-paradigm-for-data-ownership-b217e42edffa)
-
-  * Other suggested reading: _Reinventing Capitalism in the Age of Big Data_ by Viktor Mayer-Schonberger and Thomas Ramge; _The Age of Surveillance Capitalism_ by Shoshana Zuboff; _The Right of Publicity: Privacy Reimagined for a Public World_ by Jennifer E. Rothman
-
-  * Video Session Link:https://www.youtube.com/watch?v=I5bTs6vbN5M&feature=youtu.be
-
+#### Live Video
 
 <script type="text/javascript">
         (function(p,i,g,e,o,n,s){p[o]=p[o]||function(){(p[o].q=p[o].q||[]).push(arguments)},
@@ -23,6 +18,15 @@
         });
     </script>
 <div class="pigeonhole-iframe"></div>
+
+
+* Invited lecturer: [Elizabeth Renieris](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Profile:-Elizabeth-Renieris)
+
+  * Pre-Reading Material: [Do we really want to “sell” ourselves? The risks of a property law paradigm for personal data ownership](https://medium.com/@hackylawyER/do-we-really-want-to-sell-ourselves-the-risks-of-a-property-law-paradigm-for-data-ownership-b217e42edffa)
+
+  * Other suggested reading: _Reinventing Capitalism in the Age of Big Data_ by Viktor Mayer-Schonberger and Thomas Ramge; _The Age of Surveillance Capitalism_ by Shoshana Zuboff; _The Right of Publicity: Privacy Reimagined for a Public World_ by Jennifer E. Rothman
+
+  * Video Session Link:https://www.youtube.com/watch?v=I5bTs6vbN5M&feature=youtu.be
 
 ## Short Description
 
