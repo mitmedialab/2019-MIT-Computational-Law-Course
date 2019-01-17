@@ -3,7 +3,7 @@
 
 # Day 3 - January 17, 2019 - Online
 
-## OPENING PLENARY SESSION 11:00 am - 11:30 am Eastern
+## OPENING PLENARY SESSION
 
 ### 11:00 am - 11:30 am Eastern	
 
@@ -14,8 +14,6 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7luFmLM1_Zs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Direct link: [https://youtu.be/7luFmLM1_Zs]
-
-## BREAKOUT SESSIONS 11:30 am - 2:00 pm Eastern
 
  > Concurrent Breakout Sessions 	
  
