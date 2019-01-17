@@ -1,6 +1,6 @@
 # Dynamics Design Workshop
 
-There are eleven .pdf files available in the repo for the workshop, [here](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/tree/master/Dynamics-Design-Workshop)
+#### Live Stream
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d0MdT9giSrQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -18,3 +18,9 @@ There are eleven .pdf files available in the repo for the workshop, [here](https
         });
     </script>
 <div class="pigeonhole-iframe"></div>
+
+#### Real Time Board
+https://www.are.na/beth-mccarthy/business-legal-tech-dynamics
+
+#### Resources
+There are eleven .pdf files available in the repo for the workshop, [here](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/tree/master/Dynamics-Design-Workshop)
