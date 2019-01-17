@@ -1,7 +1,7 @@
 ##### |[Home](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course) | [Agenda](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/Session-Information.html) | [People](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/People.html) | [Resources](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/Resources.html) |
 ---------
 
-# Day 3 - January 17, 2019 - Online
+# Day 3 - January 17, 2019 - ONLINE
 
 ## 11:00 am - 11:30 am Eastern	OPENING PLENARY 
 
