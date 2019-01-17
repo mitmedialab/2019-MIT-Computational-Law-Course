@@ -18,23 +18,17 @@
 
  # BREAKOUT SESSIONS 11:30 am - 2:00 pm Eastern
 
-
  > Concurrent Breakout Sessions 	> Concurrent Breakout Sessions 
- ##### Small Working Group on "[How Might the Bankruptcy Court Treat Blockchain Token Holders in Bankruptcy Case?](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Resources:-Dynamics-Design-Workshop)" with Beth McCarthy and Warren Agin	#### Small Working Group on "[How Might the Bankruptcy Court Treat Blockchain Token Holders in Bankruptcy Case?](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Resources:-Dynamics-Design-Workshop)" with Beth McCarthy and Warren Agin
+##### Small Working Group on "[How Might the Bankruptcy Court Treat Blockchain Token Holders in Bankruptcy Case?](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-workshop-dynamics-design-workshop.html)" with Beth McCarthy and Warren Agin
 
+##### Small Working Group on "[Integrating Interoperable Apps and Services with a Legal Platform](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-interoperable-legal-apps-and-services)" with Juan Ramirez
 
- ##### Small Working Group on "[Integrating Interoperable Apps and Services with a Legal Platform](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-interoperable-legal-apps-and-services)" with Juan Ramirez	#### Small Working Group on "[Integrating Interoperable Apps and Services with a Legal Platform](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-interoperable-legal-apps-and-services)" with Juan Ramirez
+##### Small Working Group on "[Smart Contracts for Music Licensing](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-smart-contracts-and-the-law)" with Michelle Gitlitz
 
+##### Small Working Group on "[Collectivization of Knowledge: The Urgency of Now](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-Collectivization-of-Knowledge-The-Urgency-of-Now.html)" with Johnnie Penn
 
- ##### Small Working Group on "[Smart Contracts for Music Licensing](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-smart-contracts-and-the-law)" with Michelle Gitlitz	#### Small Working Group on "[Smart Contracts for Music Licensing](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-smart-contracts-and-the-law)" with Michelle Gitlitz
-
-
- ##### Small Working Group on "[Collectivization of Knowledge: The Urgency of Now](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-Collectivization-of-Knowledge-The-Urgency-of-Now.html)" with Johnnie Penn	#### Small Working Group on "[Collectivization of Knowledge: The Urgency of Now](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-Collectivization-of-Knowledge-The-Urgency-of-Now.html)" with Johnnie Penn
-
-
- ##### Small Working Group on "[Competing Legal Frameworks for Humanity in the Data Driven Age](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Session:-Competing-Legal-Frameworks-for-Humanity-in-the-Data-Driven-Age)" with Elizabeth Renieris*	#### Small Working Group on "[Competing Legal Frameworks for Humanity in the Data Driven Age](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Session:-Competing-Legal-Frameworks-for-Humanity-in-the-Data-Driven-Age)" with Elizabeth Renieris*
-* **Note This session starts at 12:45 pm**	* **Note This session starts at 12:45 pm**
-
+##### Small Working Group on "[Competing Legal Frameworks for Humanity in the Data Driven Age](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-Legal-Frameworks-for-Identity)" with Elizabeth Renieris*
+* **Note This session starts at 12:45 pm**
 
  ### 2:30 pm - 3:00 pm Eastern	# CLOSING PLENARY 2:30 pm - 4:00 pm 
 * Report outs from each small group discussiom	
