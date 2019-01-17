@@ -9,9 +9,11 @@
 
  * Welcome/Overview of breakout sessions	* Welcome/Overview of breakout sessions
 
-### 11:30 am - 2:00 pm Eastern	<iframe width="560" height="315" src="https://www.youtube.com/embed/7luFmLM1_Zs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### 11:30 am - 2:00 pm Eastern	
 
- Direct link: [https://youtu.be/7luFmLM1_Zs]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7luFmLM1_Zs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* Direct link: [https://youtu.be/7luFmLM1_Zs]
 
 ## BREAKOUT SESSIONS 11:30 am - 2:00 pm Eastern
 
@@ -34,10 +36,11 @@
 
 * Report outs from each small group discussiom	
 
- <iframe width="560" height="315" src="https://www.youtube.com/embed/cmOcuqzvPQw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cmOcuqzvPQw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+* Direct link to plenary video stream: [https://youtu.be/cmOcuqzvPQw](https://youtu.be/cmOcuqzvPQw)
 
-### 3:00 pm - 3:45 pm Eastern	* Direct link to plenary video stream: [https://youtu.be/cmOcuqzvPQw](https://youtu.be/cmOcuqzvPQw)
+### 3:00 pm - 3:45 pm Eastern	
 
 ### 2:30 pm - 3:00 pm Eastern
 * Report outs from each small group discussiom
