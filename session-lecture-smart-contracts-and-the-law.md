@@ -1,6 +1,8 @@
 # Smart Legal Contracts
 
-Lecture by Michelle Gitlitz on legal enforceability of Smart Contracts
+#### Live Stream for Smart Legal Contracts Workshop
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aARb1QAWQUQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <script type="text/javascript">
         (function(p,i,g,e,o,n,s){p[o]=p[o]||function(){(p[o].q=p[o].q||[]).push(arguments)},
@@ -16,5 +18,7 @@ Lecture by Michelle Gitlitz on legal enforceability of Smart Contracts
         });
     </script>
 <div class="pigeonhole-iframe"></div>
+
+#### Lecture by Michelle Gitlitz on legal enforceability of Smart Contracts
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WMqO8Hrqskw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
