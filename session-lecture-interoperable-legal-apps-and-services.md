@@ -1,5 +1,8 @@
 # Interoperable Legal Apps and Services
 
+#### January 17, 2019
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RGMkGrkMtJs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <script type="text/javascript">
         (function(p,i,g,e,o,n,s){p[o]=p[o]||function(){(p[o].q=p[o].q||[]).push(arguments)},
             n=i.createElement(g),s=i.getElementsByTagName(g)[0];n.async=1;n.src=e;
