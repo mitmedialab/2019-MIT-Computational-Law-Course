@@ -30,24 +30,17 @@
 
 ## 2:30 pm - 4:00 pm Eastern CLOSING PLENARY 
 
-### 2:30 pm - 3:00 pm Eastern	
-
-* Report outs from each small group discussiom	
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cmOcuqzvPQw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Direct link to plenary video stream: [https://youtu.be/cmOcuqzvPQw](https://youtu.be/cmOcuqzvPQw)
 
-### 3:00 pm - 3:45 pm Eastern	
-
-### 2:30 pm - 3:00 pm Eastern
+#### 2:30 pm - 3:00 pm Eastern
 * Report outs from each small group discussiom
 
-### 3:00 pm - 3:45 pm Eastern
+#### 3:00 pm - 3:45 pm Eastern
 * General discussion
 
-### 3:45 pm - 4:00 pm Eastern	### 3:45 pm - 4:00 pm Eastern
- 
+#### 3:45 pm - 4:00 pm Eastern	 
 * Wrap up and preview of upcoming relevant projects, events and other initiatives.
 
 
