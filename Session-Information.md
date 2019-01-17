@@ -11,7 +11,6 @@
 
 * Direct link: [https://youtu.be/7luFmLM1_Zs](https://youtu.be/7luFmLM1_Zs)
 
-
 <script type="text/javascript">
         (function(p,i,g,e,o,n,s){p[o]=p[o]||function(){(p[o].q=p[o].q||[]).push(arguments)},
             n=i.createElement(g),s=i.getElementsByTagName(g)[0];n.async=1;n.src=e;
