@@ -7,12 +7,11 @@
 
 ### 11:00 am - 11:30 am Eastern
 
-* Self-organize into breakout sessions
-* Welcome/Overview of Firestarter
-
+* Welcome/Overview of breakout sessions
 
 ### 11:30 am - 2:00 pm Eastern
-* Concurrent Breakout Sessions 
+
+> Concurrent Breakout Sessions 
 
 ##### Small Working Group on "[How Might the Bankruptcy Court Treat Blockchain Token Holders in Bankruptcy Case?](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Resources:-Dynamics-Design-Workshop)" with Beth McCarthy and Warren Agin
 
