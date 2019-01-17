@@ -3,17 +3,17 @@
 
 # Day 3 - January 17, 2019 - Online
 
-## OPENING PLENARY SESSION
+## 11:00 am - 11:30 am Eastern	OPENING PLENARY 
 
-### 11:00 am - 11:30 am Eastern	
-
- * Welcome and overview of breakout sessions	* Welcome/Overview of breakout sessions
-
-### 11:30 am - 2:00 pm Eastern	
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7luFmLM1_Zs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ * Welcome and overview of breakout sessions	
+ 
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/7luFmLM1_Zs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Direct link: [https://youtu.be/7luFmLM1_Zs](https://youtu.be/7luFmLM1_Zs)
+
+
+## 11:30 am - 2:00 pm Eastern	SMALL GROUPS
+
 
  > Concurrent Breakout Sessions 	
  
@@ -28,7 +28,7 @@
 #### Small Working Group on "[Competing Legal Frameworks for Humanity in the Data Driven Age](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-Legal-Frameworks-for-Identity)" with Elizabeth Renieris*
 * **Note This session starts at 12:45 pm**
 
-## CLOSING PLENARY 2:30 pm - 4:00 pm 
+## 2:30 pm - 4:00 pm Eastern CLOSING PLENARY 
 
 ### 2:30 pm - 3:00 pm Eastern	
 
