@@ -1,5 +1,7 @@
 ## Example of a blockchain smart-contract for Digital Rights Management
 
+> NOTE: The materials refererened in this README will be made available when they can be distributed under the [open source license](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/blob/master/LICENSE) designated for files in this repository. 
+
 The smart-contract is designed for Hyperledger Fabric platform:
 https://www.hyperledger.org/projects/fabric
 
