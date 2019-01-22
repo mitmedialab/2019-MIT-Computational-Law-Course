@@ -1,4 +1,4 @@
-##Example of a blockchain smart-contract for Digital Rights Management
+## Example of a blockchain smart-contract for Digital Rights Management
 
 The smart-contract is designed for Hyperledger Fabric platform:
 https://www.hyperledger.org/projects/fabric
