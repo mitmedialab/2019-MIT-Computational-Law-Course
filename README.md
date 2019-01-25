@@ -1,22 +1,11 @@
 ##### |[Home](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course) | [Agenda](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/Session-Information.html) | [People](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/People.html) | [Resources](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/Resources.html) |
 ----------
-# Home
 
-### [Day 2 Livestream part 1](http://youtu.be/AajoW8Gngrs): Opening Plenary Session for Day 2
-
-Please join us at 1-1:05 PM eastern time for the starting session for Day 2.  We will intro all the breakout sessions and you may select the sessions you wish to join for the day.
-
-### Select your breakout sessions and give us feedback on the course at the [Day 2 Plenary Page](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/lecture-day-2-plenary.html)
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/AajoW8Gngrs" frameborder="0" allowfullscreen></iframe>
-
-----------
-
-### [Day 1 Livestream pt. 3](https://www.youtube.com/embed/D7CEma2TjUA)
+* **2019 Classes and Breakout Sessions Archive: [https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/Session-Information.html](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/Session-Information.html)**
 
 ##### [Course Introduction Video](https://www.youtube.com/embed/esLcXNZ-Jso)
 
-The 2019 MIT IAP Computational Law course is a free, open, and digital-first class. The structure of the course involves a series of flipped-classroom lectures ([sessions](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/Session-Information.html)) that have been pre-recorded on youtube live, on-going commentary through our [class telegram channel](https://t.me/joinchat/HT4a1hFg6GWbPJqtnqWwZg), and pidgeonhole widgets for providing synchronous and asynchronous feedback to lectures through comments, voting, and other real-time polling functions.
+The 2019 MIT IAP Computational Law workshop course is a free, open, and digital-first class. The structure of the course involves a series of flipped-classroom lectures ([sessions](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/Session-Information.html)) that have been pre-recorded on youtube live, on-going commentary through our [class telegram channel](https://t.me/joinchat/HT4a1hFg6GWbPJqtnqWwZg), and pidgeonhole widgets for providing synchronous and asynchronous feedback to lectures through comments, voting, and other real-time polling functions.
 
 For information about the sessions, including the content and agenda for each day, click [here](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/Session-Information.html)
 
