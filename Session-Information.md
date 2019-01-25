@@ -4,9 +4,6 @@
 
 # Day 1
 
-## January 14, 2019 - Online
-[Session Prep](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-prep.html) at 7:00 pm Eastern
-
 ## January 15, 2019 Online
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wikEBDN1g_k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
