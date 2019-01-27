@@ -151,6 +151,4 @@ Juan Ramirez
 * General discussion
 
 ##### 3:45 pm - 4:00 pm Eastern	 
-* Wrap up and preview of upcoming relevant projects, events and other initiatives.
-
-------
+* Wrap up and preview of upcoming relevant projects, events and other initiatives
