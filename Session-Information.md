@@ -1,4 +1,12 @@
 ##### |[Home](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course) | [Agenda](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/Session-Information.html) | [People](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/People.html) | [Resources](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/Resources.html) |
+----------
+# Ongoing Sessions
+
+The following sessions are still receiving feedback
+
+##### [Collectivization of Knowledge: The Urgency of Now](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-Collectivization-of-Knowledge-The-Urgency-of-Now.html)
+
+##### [How Might a Computational Jurisdiction be Designed, Built, and Tested?](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-challenge-computational-jurisdiction.html)
 
 ----------
 
@@ -133,10 +141,6 @@ Juan Ramirez
 
 #### Small Working Group on "[Smart Contracts for Music Licensing](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-smart-contracts-and-the-law)" with Michelle Gitlitz
 * **Note: This session starts at 1:15 pm**
-
---------
-
-> **NOTE: We are postponing the ""[Collectivization of Knowledge: The Urgency of Now](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-Collectivization-of-Knowledge-The-Urgency-of-Now.html)" with Johnnie Penn" session due to technical difficulties.  Any student in the course who wishes to participate in this session may do so when it is re-scheduled after the class.  We will schedule at a time that works for the discussion leader and as best as possible for all students who wish to participate.**
 
 -------
 
