@@ -9,12 +9,6 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wikEBDN1g_k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ##### Live Stream: Day 1 pt. 1
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8L-4_RPeUgY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-##### Live Stream: Day 1 pt. 2
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D7CEma2TjUA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-##### Live Stream: Day 1 pt. 3
-
 ### 11:00 am - 11:30 am Eastern
 * [What is Computational Law?](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-what-is-computational-law.html)
 * Dazza Greenwood
@@ -22,6 +16,9 @@
 ### 11:30 am - 12:00 pm Eastern
 * [Computational Law Overview and Docassemble](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-computational-law-and-docassemble.html)
 * Bryan Wilson
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8L-4_RPeUgY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+##### Live Stream: Day 1 pt. 2
 
 ### 12:30 pm - 1:15 pm Eastern 
 * [Rights Expression Languages](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-rights-expression-languages.html)
@@ -31,6 +28,9 @@
 ### 1:30 pm - 2:00 pm Eastern
 * [Music Industry Value Chain](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-value-chain.html)
 * Vickie Nauman
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D7CEma2TjUA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+##### Live Stream: Day 1 pt. 3
 
 ### 2:15 pm - 2:45 pm Eastern
 * [Computational Contracts](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-computational-contracts.html)
@@ -94,7 +94,6 @@ Juan Ramirez
 
 ### 3:15 pm - 3:20 pm Eastern
 [Closing Plenary Session](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/lecture-day-2-plenary.html)
-
 
 
 
@@ -163,7 +162,15 @@ Juan Ramirez
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cmOcuqzvPQw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* Direct link to closing plenary video stream: [https://youtu.be/cmOcuqzvPQw](https://youtu.be/cmOcuqzvPQw)
+#### 2:30 pm - 3:00 pm Eastern
+* Report outs from each small group discussiom
+
+#### 3:00 pm - 3:45 pm Eastern
+* General discussion
+
+#### 3:45 pm - 4:00 pm Eastern	 
+* Wrap up and preview of upcoming relevant projects, events and other initiatives.
+
 
 <script type="text/javascript">
         (function(p,i,g,e,o,n,s){p[o]=p[o]||function(){(p[o].q=p[o].q||[]).push(arguments)},
@@ -179,15 +186,3 @@ Juan Ramirez
         });
     </script>
 <div class="pigeonhole-iframe"></div>
-
-#### 2:30 pm - 3:00 pm Eastern
-* Report outs from each small group discussiom
-
-#### 3:00 pm - 3:45 pm Eastern
-* General discussion
-
-#### 3:45 pm - 4:00 pm Eastern	 
-* Wrap up and preview of upcoming relevant projects, events and other initiatives.
-
-
-
