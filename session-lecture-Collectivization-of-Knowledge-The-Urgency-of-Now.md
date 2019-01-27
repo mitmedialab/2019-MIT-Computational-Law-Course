@@ -1,9 +1,10 @@
 # Collectivization of Knowledge: The Urgency of Now
 
-## NOTE: We are postponing this live session due to technical difficulties.  Any student in the course who wishes to participate in this session may do so when it is re-scheduled after the class.  We will schedule at a time that works for the discussion leader and as best as possible for all students who wish to participate.
+Overview: Take a moment to consider: Would you have the job you do if an algorithm was the sole factor in hiring you? Christina Colclough will provide an overview of issues and Johnnie Penn will lead this discussion session. This session looks at information asymmetries, specifically in the context of data, dangerous paths for algorithms, the need for human in command, and imagines: what if our data could work for us?
 
-Take a moment to consider: would you have the job you do if an algorithm was the sole factor in hiring you? Christina Colclough will provide an overview of issues and Johnnie Penn will lead this discussion session. This session looks at information asymmetries, specifically in the context of data, dangerous paths for algorithms, the need for human in command, and imagines: what if our data could work for us?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GWkosw56_hA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Direct link to video: [https://youtu.be/GWkosw56_hA](https://youtu.be/GWkosw56_hA)
 
 <script type="text/javascript">
         (function(p,i,g,e,o,n,s){p[o]=p[o]||function(){(p[o].q=p[o].q||[]).push(arguments)},
@@ -19,3 +20,4 @@ Take a moment to consider: would you have the job you do if an algorithm was the
         });
     </script>
 <div class="pigeonhole-iframe"></div>
+
