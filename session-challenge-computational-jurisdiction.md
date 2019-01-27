@@ -7,7 +7,7 @@
 #### Open Questions for Feedback
 1) What is the philosophy kernel of a computational jurisdiction?
 2) What classes of infrastructure are required?
-3) What guideliens and rules do we need to account for?
+3) What guidelines and rules do we need to account for?
 4) What is the role of a citizen?
 5) What is the role of a businesses?
 
