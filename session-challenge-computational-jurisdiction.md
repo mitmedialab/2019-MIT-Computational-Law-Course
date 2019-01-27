@@ -33,24 +33,6 @@
         
 In the [video below](https://youtu.be/-pboxAUgiUA), Christoph Pereira of GE poses a creative challenge at the 2017 MIT Legal Forum to design and text a computational municipal jusidiction.  Please review Christoph's presentation (the audience discussion following the presentation is informative, but optional) and then provide your feedback through the PigeonHole widget below on how one might design, build and test such a system. 
 
-
---------------------------------
-
-<script type="text/javascript">
-        (function(p,i,g,e,o,n,s){p[o]=p[o]||function(){(p[o].q=p[o].q||[]).push(arguments)},
-            n=i.createElement(g),s=i.getElementsByTagName(g)[0];n.async=1;n.src=e;
-            s.parentNode.insertBefore(n,s);})
-            (window,document,'script','https://static.pigeonhole.at/widget/pigeon-widget.js','phl');
-        phl("create", {
-            width: "320px",
-            height: "568px",
-            passcode: "LAWMIT",
-            className: "pigeonhole-iframe",
-            sessionId: 192788, 
-        });
-    </script>
-<div class="pigeonhole-iframe"></div>
-
 -----------------
 
 #### Overview Video - Full Screen
