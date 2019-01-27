@@ -65,7 +65,7 @@
 ##### 2:30 pm - 3:30 pm Eastern
 * [IBM Hyperledger Solutions for Open Music Initiative Challenges](https://github.com/mitmedialab/2019-MIT-Computational-Law-Course/wiki/Technology:-IBM-Hyperledger)
 
-##### 3:30 pm - 3:35 pm Easter
+##### 3:30 pm - 3:35 pm Eastern
 * Closing Plenary
 <iframe width="420" height="315" src="http://www.youtube.com/embed/b9LM-Mvl-as" frameborder="0" allowfullscreen></iframe>
 
