@@ -140,7 +140,7 @@ Juan Ramirez
 
 -------
 
-## 2:30 pm - 4:00 pm Eastern CLOSING PLENARY 
+##### 2:30 pm - 4:00 pm Eastern CLOSING PLENARY 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cmOcuqzvPQw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
