@@ -4,7 +4,7 @@
 
 # Ongoing Sessions: 
 
-## Tuesday Jan 29th through Thursday Feb 7th
+## Tuesday Jan 29th - Thursday Feb 7th
 
 > The following two sessions are still receiving feedback until February 7th, 2019
 
