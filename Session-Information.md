@@ -4,9 +4,9 @@
 
 # Ongoing Sessions: 
 
-## Tuesday Jan 29th - Thursday Feb 7th
+## Tuesday Jan 29th - Friday Feb 8th
 
-> The following two sessions are still receiving feedback until February 7th, 2019
+> The following two sessions are still receiving feedback until February 8th, 2019
 
 ##### [Collectivization of Knowledge: The Urgency of Now](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-Collectivization-of-Knowledge-The-Urgency-of-Now.html)
 
