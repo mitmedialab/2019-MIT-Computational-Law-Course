@@ -8,7 +8,7 @@ Overview: Take a moment to consider: Would you have the job you do if an algorit
 
 Direct link to video: [https://youtu.be/GWkosw56_hA](https://youtu.be/GWkosw56_hA)
 
-# Student Engagement
+## Student Engagement
 
 We will elicit feedback from students in three phases: 
 
