@@ -12,7 +12,7 @@ Direct link to video: [https://youtu.be/GWkosw56_hA](https://youtu.be/GWkosw56_h
 
 We will elicit feedback from students in three phases: 
 
-* First, we will ask your feedback on alternative potential paradigms for the use and protection of personal data. Then we will provide all students an opportunity to review and prioritize the responses from the class.  
+* First, we will ask your feedback on alternative potential paradigms for the use and protection of personal data. Then we will provide all students an opportunity to review and prioritize the responses from the class.  We will collect your feedback on this initial question through Friday, February 1st.
 
 * Second, we will provide the top few proposed alternative paradigms and ask what benefits, costs and unintended consequences or other risks could arise from each top proposed alternative paradigm.  We will curate the responses and provide them back to the class as a whole.  
 
