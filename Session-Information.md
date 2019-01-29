@@ -1,12 +1,20 @@
 ##### |[Home](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course) | [Agenda](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/Session-Information.html) | [People](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/People.html) | [Resources](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/Resources.html) |
-----------
-# Ongoing Sessions
 
-The following sessions are still receiving feedback
+----------
+
+# Ongoing Sessions: 
+
+## Tuesday Jan 29th through Thursday Feb 7th
+
+> The following two sessions are still receiving feedback until February 7th, 2019
 
 ##### [Collectivization of Knowledge: The Urgency of Now](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-lecture-Collectivization-of-Knowledge-The-Urgency-of-Now.html)
 
 ##### [How Might a Computational Jurisdiction be Designed, Built, and Tested?](https://mitmedialab.github.io/2019-MIT-Computational-Law-Course/session-challenge-computational-jurisdiction.html)
+
+----------
+
+# 2019 Course Archive Below
 
 ----------
 
